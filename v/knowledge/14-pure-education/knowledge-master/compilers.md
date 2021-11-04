@@ -1,0 +1,277 @@
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNjk2XyIgY2xhc3M9InItaDdnZG9iIiBzdHlsZT0iaGVpZ2h0OjE4cHg7dmVydGljYWwtYWxpZ246bWlkZGxlO3dpZHRoOjE4cHgiPjxwYXRoIGQ9Ik0zIDEyaDE4TTMgNmgxOE0zIDE4aDE4Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob" />
+
+<a href="../../index.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-1loqt21 r-18u37iz r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+<span class="css-901oao css-16my406 css-vcwn7f" aria-label="My Docs" rnw-int-class="nearest_243__257-103008_">My Docs</span>
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0xMDMwMTJfIiBjbGFzcz0ici1oN2dkb2IiIHN0eWxlPSJoZWlnaHQ6MTZweDt2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMC41IDRhNi41IDYuNSAwIDEwMCAxMyA2LjUgNi41IDAgMDAwLTEzek0yIDEwLjVhOC41IDguNSAwIDExMTcgMCA4LjUgOC41IDAgMDEtMTcgMHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTUuMDkzIDE1LjA5M2ExIDEgMCAwMTEuNDE0IDBsNS4yIDUuMmExIDEgMCAwMS0xLjQxNCAxLjQxNGwtNS4yLTUuMmExIDEgMCAwMTAtMS40MTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob" />
+
+Search…
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0xMDMwMTJfIiBjbGFzcz0ici1oN2dkb2IiIHN0eWxlPSJoZWlnaHQ6MTZweDt2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMC41IDRhNi41IDYuNSAwIDEwMCAxMyA2LjUgNi41IDAgMDAwLTEzek0yIDEwLjVhOC41IDguNSAwIDExMTcgMCA4LjUgOC41IDAgMDEtMTcgMHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTUuMDkzIDE1LjA5M2ExIDEgMCAwMTEuNDE0IDBsNS4yIDUuMmExIDEgMCAwMS0xLjQxNCAxLjQxNGwtNS4yLTUuMmExIDEgMCAwMTAtMS40MTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob" />
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiIgc3R5bGU9ImhlaWdodDoxOHB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxOHB4Ij48cGF0aCBkPSJNMTggNkw2IDE4TTYgNmwxMiAxMiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob" />
+
+<a href="../../index.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-1loqt21 r-18u37iz r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+<span class="css-901oao css-16my406 css-vcwn7f" aria-label="My Docs" rnw-int-class="nearest_243__257-103008_">My Docs</span>
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0xMDMwMTJfIiBjbGFzcz0ici1oN2dkb2IiIHN0eWxlPSJoZWlnaHQ6MThweDt2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MThweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMC41IDRhNi41IDYuNSAwIDEwMCAxMyA2LjUgNi41IDAgMDAwLTEzek0yIDEwLjVhOC41IDguNSAwIDExMTcgMCA4LjUgOC41IDAgMDEtMTcgMHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTUuMDkzIDE1LjA5M2ExIDEgMCAwMTEuNDE0IDBsNS4yIDUuMmExIDEgMCAwMS0xLjQxNCAxLjQxNGwtNS4yLTUuMmExIDEgMCAwMTAtMS40MTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob" />
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiIgc3R5bGU9ImhlaWdodDoxOHB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxOHB4Ij48cGF0aCBkPSJNMTIgMkwyIDdsMTAgNSAxMC01LTEwLTV6TTIgMTdsMTAgNSAxMC01TTIgMTJsMTAgNSAxMC01Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob" />
+
+<span class="css-901oao css-16my406 css-vcwn7f">knowledge</span>
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTFqa2piIiBzdHlsZT0iaGVpZ2h0OjE4cHg7dmVydGljYWwtYWxpZ246bWlkZGxlO3dpZHRoOjE4cHgiPjxwYXRoIGQ9Ik05IDE4bDYtNi02LTYiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob r-1jkjb" />
+
+<a href="../../index.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+14-Pure-Education
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTYgOWw2IDYgNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7" />
+
+<a href="../knowledge-master.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+My Knowledge Wiki 🌿
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTYgOWw2IDYgNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7" />
+
+<a href=".github.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+.github
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="design.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+design
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="databases.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+databases
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="augmented-reality.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+augmented-reality
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="art.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+art
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="computer-graphics.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+computer-graphics
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="computer-science.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+computer-science
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="business.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+business
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="compilers.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-156hn8l r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+compilers
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTYgOWw2IDYgNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7" />
+
+<a href="compilers/llvm.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+LLVM
+
+<a href="compilers/linters.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+Linters
+
+<a href="compilers/build-systems.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+build-systems
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="compilers/compilers.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+Compilers
+
+<a href="books.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+books
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="devops.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+devops
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="cryptocurrencies.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+cryptocurrencies
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="backups.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+backups
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="3d-printing.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+3d-printing
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="distributed-systems.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+distributed-systems
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="cli.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+cli
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="automation.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+automation
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="biology.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+biology
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="cloud-computing.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+cloud-computing
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="articles.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+articles
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="anki.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+anki
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="data-science.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+data-science
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="consciousness.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+consciousness
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="documentaries.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+documentaries
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="summary.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+Summary
+
+<a href="api.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+api
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="animals.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+animals
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="courses.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+courses
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="analytics.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+analytics
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="chemistry.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+chemistry
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTEwMzAxMl8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
+
+<a href="https://www.gitbook.com/?utm_source=content&amp;utm_medium=trademark&amp;utm_campaign=-MZ6f1s73fCbSJHLK-7n" class="css-4rbku5 css-1dbjc4n r-1uwl36a r-z2wwpe r-1rasi3h r-1loqt21 r-18u37iz r-1fdo3w0 r-1mnahxq r-ymttw5 r-5njf8e r-1otgn73 r-1i6wzkk r-lrvibr"><img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgNTEyIDUxMiIgZmlsbD0ibm9uZSIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItZXUza2Egci0xYW9ja2lkIiBzdHlsZT0idmVydGljYWwtYWxpZ246bWlkZGxlIj48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTIzMC40MzQgMzc5LjU1NGM4LjI1OSAwIDE0Ljk3OCA2LjcxOSAxNC45NzggMTQuOTc0IDAgOC4yNTYtNi43MTkgMTQuOTc0LTE0Ljk3OCAxNC45NzQtOC4yNTUgMC0xNC45NzQtNi43MTgtMTQuOTc0LTE0Ljk3NCAwLTguMjU1IDYuNzE5LTE0Ljk3NCAxNC45NzQtMTQuOTc0em0yMzUuMTg5LTkyLjc1OGMtOC4yNTkgMC0xNC45NzgtNi43MTktMTQuOTc4LTE0Ljk3NCAwLTguMjU5IDYuNzE5LTE0Ljk3OCAxNC45NzgtMTQuOTc4IDguMjU1IDAgMTQuOTc0IDYuNzE5IDE0Ljk3NCAxNC45NzggMCA4LjI1NS02LjcxOSAxNC45NzQtMTQuOTc0IDE0Ljk3NHptMC02MS4zNTFjLTI1LjU3MSAwLTQ2LjM3NyAyMC44MDUtNDYuMzc3IDQ2LjM3NyAwIDQuOTc5LjgyNyA5LjkzOCAyLjQ2IDE0Ljc1N0wyNjguNTAyIDM2OC4xM2MtOC43MDQtMTIuNTQzLTIyLjgxMi0xOS45NzktMzguMDY4LTE5Ljk3OS0xNy42NzYgMC0zMy43OTEgMTAuMTEzLTQxLjU4NiAyNS45MjRMNTEuMjExIDMwMS41MTRjLTE0LjU0LTcuNjQ2LTI1LjQyNS0zMS41OTUtMjQuMjctNTMuMzkyLjU5OC0xMS4zNzEgNC41My0yMC4xOTYgMTAuNTExLTIzLjYwNCAzLjgtMi4xNTcgOC4zNy0xLjk2OCAxMy4yMTQuNTdsLjkyLjQ4NWMzNi40NjQgMTkuMjEyIDE1NS44MjIgODIuMDc5IDE2MC44NDQgODQuNDEzIDcuNzU3IDMuNTg2IDEyLjA2OSA1LjA0MSAyNS4yNzktMS4yMjJsMjQ2LjcyMy0xMjguMzE3YzMuNjE1LTEuMzY1IDcuODMyLTQuODMgNy44MzItMTAuMDkxIDAtNy4zLTcuNTQ2LTEwLjE3Ny03LjU2OC0xMC4xNzctMTQuMDI2LTYuNzI5LTM1LjYwMS0xNi44MjctNTYuNjM5LTI2LjY3Ni00NC45NjUtMjEuMDU1LTk1LjkzMy00NC45MTktMTE4LjMxOC01Ni42MzktMTkuMzIzLTEwLjExNi0zNC44NzctMS41OS0zNy42NS4xMzVsLTUuMzkgMi42NjdDMTY1Ljk2NSAxMjkuNDgyIDMxLjE1NCAxOTYuMjQ4IDIzLjQ3OSAyMDAuOTE3IDkuNzM1IDIwOS4yOCAxLjIyNCAyMjUuOTQuMTIyIDI0Ni42MjVjLTEuNzIyIDMyLjc4OSAxNS4wMDcgNjYuOTY5IDM4LjkxNiA3OS41MTJsMTQ1LjUzNiA3NS4wNTdjMy4yNzkgMjIuNzA5IDIyLjgyNyAzOS43MTIgNDUuODYgMzkuNzEyIDI1LjMzNyAwIDQ1Ljk5Mi0yMC40MjUgNDYuMzc0LTQ1LjY3MmwxNjAuMjkyLTg2Ljg3YTQ2LjQxIDQ2LjQxIDAgMDAyOC41MjMgOS44MzVjMjUuNTcxIDAgNDYuMzc3LTIwLjgwNiA0Ni4zNzctNDYuMzc3IDAtMjUuNTcyLTIwLjgwNi00Ni4zNzctNDYuMzc3LTQ2LjM3N3oiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjwvc3ZnPg==" class="r-eu3ka r-1aockid" /></a>
+
+Powered By <span class="css-901oao css-16my406 r-b88u0q">GitBook</span>
+
+compilers
+
+Here are the articles in this section:
+
+<a href="compilers/llvm.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-1ro0kt6 r-18u37iz r-16y2uox r-1wbh5a2 r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+LLVM
+
+<a href="compilers/linters.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-1ro0kt6 r-18u37iz r-16y2uox r-1wbh5a2 r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+Linters
+
+<a href="compilers/build-systems.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-1ro0kt6 r-18u37iz r-16y2uox r-1wbh5a2 r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+build-systems
+
+<a href="compilers/compilers.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-1ro0kt6 r-18u37iz r-16y2uox r-1wbh5a2 r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+Compilers
+
+<a href="business/pricing.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-1ro0kt6 r-18u37iz r-16y2uox r-1wbh5a2 r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X18yNTctMTAzMDA4X18iIGNsYXNzPSJyLTFyYXNpM2ggci0xNDcybXdnIHItbHJzbGxwIiBzdHlsZT0idmVydGljYWwtYWxpZ246bWlkZGxlIj48cGF0aCBkPSJNMTkgMTJINU0xMiAxOWwtNy03IDctNyI+PC9wYXRoPjwvc3ZnPg==" class="r-1rasi3h r-1472mwg r-lrsllp" />
+
+Previous
+
+Pricing
+
+<a href="compilers/llvm.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-1ro0kt6 r-18u37iz r-16y2uox r-1wbh5a2 r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+
+Next
+
+LLVM
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X18yNTctMTAzMDA4X18iIGNsYXNzPSJyLTFyYXNpM2ggci0xNDcybXdnIHItbHJzbGxwIiBzdHlsZT0idmVydGljYWwtYWxpZ246bWlkZGxlIj48cGF0aCBkPSJNNSAxMmgxNE0xMiA1bDcgNy03IDciPjwvcGF0aD48L3N2Zz4=" class="r-1rasi3h r-1472mwg r-lrsllp" />
+
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzI1Ny0xMDMwMDhfIiBjbGFzcz0ici0xcmFzaTNoIHItMTBwdHVuNyIgc3R5bGU9InZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxNnB4Ij48cGF0aCBkPSJNMTQuMTEgNi42bC0uMTYtLjA5Yy0uMDQyLjM0My0uMTMuNjgtLjI2IDFBMyAzIDAgMDExNSAxMGEzIDMgMCAwMS0zIDNIOGEzIDMgMCAwMTAtNmguODJBMyAzIDAgMDA5IDZIOGE0IDQgMCAwMDAgOGg0YTQgNCAwIDAwMi4xMS03LjR6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBkPSJNMS44OSA5LjRsLjE2LjA5Yy4wNDItLjM0My4xMy0uNjguMjYtMUEzIDMgMCAwMTEgNmEzIDMgMCAwMTMtM2g0YTMgMyAwIDExMCA2aC0uODJBMyAzIDAgMDA3IDEwaDFhNCA0IDAgMDAwLThINGE0IDQgMCAwMC0yLjExIDcuNHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjwvc3ZnPg==" class="r-1rasi3h r-10ptun7" />
+
+Copy link
