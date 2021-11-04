@@ -1,400 +1,400 @@
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNjk2XyIgY2xhc3M9InItaDdnZG9iIiBzdHlsZT0iaGVpZ2h0OjE4cHg7dmVydGljYWwtYWxpZ246bWlkZGxlO3dpZHRoOjE4cHgiPjxwYXRoIGQ9Ik0zIDEyaDE4TTMgNmgxOE0zIDE4aDE4Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNjk2XyIgY2xhc3M9InItaDdnZG9iIiBzdHlsZT0iaGVpZ2h0OiAxOHB4OyB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOyB3aWR0aDogMThweCI+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMyAxMmgxOE0zIDZoMThNMyAxOGgxOCI+PC9wYXRoPgogICAgICAgICAgICAgIDwvc3ZnPg==" class="r-h7gdob" />
 
-<a href="/my-docs/" class="css-4rbku5 css-1dbjc4n r-1awozwy r-1loqt21 r-18u37iz r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../index.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-1loqt21 r-18u37iz r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 <span class="css-901oao css-16my406 css-vcwn7f" aria-label="My Docs" rnw-int-class="nearest_243__257-23774_">My Docs</span>
 
 <a href="https://bgoonz-blog.netlify.app" class="css-4rbku5 css-901oao css-cens5h r-howw7u r-1loqt21 r-gg6oyi r-ubezar r-majxgm r-135wba7 r-ymttw5">My Blog</a><a href="https://py-v2.gitbook.io/datastructures-in-pytho/" class="css-4rbku5 css-901oao css-cens5h r-howw7u r-1loqt21 r-gg6oyi r-ubezar r-majxgm r-135wba7 r-ymttw5">Python Data Structures</a><a href="https://github.com/bgoonz/Web-Dev-Hub-Docs" class="css-4rbku5 css-901oao css-cens5h r-howw7u r-1loqt21 r-gg6oyi r-ubezar r-majxgm r-135wba7 r-ymttw5">Repo</a><a href="https://lambda-labs.gitbook.io/lambda-labs/" class="css-4rbku5 css-901oao css-cens5h r-howw7u r-1loqt21 r-gg6oyi r-ubezar r-majxgm r-135wba7 r-ymttw5">Family-Promise-Docs</a>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiIgc3R5bGU9ImhlaWdodDoxNnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxNnB4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTEwLjUgNGE2LjUgNi41IDAgMTAwIDEzIDYuNSA2LjUgMCAwMDAtMTN6TTIgMTAuNWE4LjUgOC41IDAgMTExNyAwIDguNSA4LjUgMCAwMS0xNyAweiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNS4wOTMgMTUuMDkzYTEgMSAwIDAxMS40MTQgMGw1LjIgNS4yYTEgMSAwIDAxLTEuNDE0IDEuNDE0bC01LjItNS4yYTEgMSAwIDAxMC0xLjQxNHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiIgc3R5bGU9ImhlaWdodDogMTZweDsgdmVydGljYWwtYWxpZ246IG1pZGRsZTsgd2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMC41IDRhNi41IDYuNSAwIDEwMCAxMyA2LjUgNi41IDAgMDAwLTEzek0yIDEwLjVhOC41IDguNSAwIDExMTcgMCA4LjUgOC41IDAgMDEtMTcgMHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNS4wOTMgMTUuMDkzYTEgMSAwIDAxMS40MTQgMGw1LjIgNS4yYTEgMSAwIDAxLTEuNDE0IDEuNDE0bC01LjItNS4yYTEgMSAwIDAxMC0xLjQxNHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==" class="r-h7gdob" />
 
 Search…
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiIgc3R5bGU9ImhlaWdodDoxNnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxNnB4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTEwLjUgNGE2LjUgNi41IDAgMTAwIDEzIDYuNSA2LjUgMCAwMDAtMTN6TTIgMTAuNWE4LjUgOC41IDAgMTExNyAwIDguNSA4LjUgMCAwMS0xNyAweiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNS4wOTMgMTUuMDkzYTEgMSAwIDAxMS40MTQgMGw1LjIgNS4yYTEgMSAwIDAxLTEuNDE0IDEuNDE0bC01LjItNS4yYTEgMSAwIDAxMC0xLjQxNHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiIgc3R5bGU9ImhlaWdodDogMTZweDsgdmVydGljYWwtYWxpZ246IG1pZGRsZTsgd2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMC41IDRhNi41IDYuNSAwIDEwMCAxMyA2LjUgNi41IDAgMDAwLTEzek0yIDEwLjVhOC41IDguNSAwIDExMTcgMCA4LjUgOC41IDAgMDEtMTcgMHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNS4wOTMgMTUuMDkzYTEgMSAwIDAxMS40MTQgMGw1LjIgNS4yYTEgMSAwIDAxLTEuNDE0IDEuNDE0bC01LjItNS4yYTEgMSAwIDAxMC0xLjQxNHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==" class="r-h7gdob" />
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIiBzdHlsZT0iaGVpZ2h0OjE4cHg7dmVydGljYWwtYWxpZ246bWlkZGxlO3dpZHRoOjE4cHgiPjxwYXRoIGQ9Ik0xOCA2TDYgMThNNiA2bDEyIDEyIj48L3BhdGg+PC9zdmc+" class="r-h7gdob" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIiBzdHlsZT0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgaGVpZ2h0OiAxOHB4OwogICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDE4cHg7CiAgICAgICAgICAgICAgICAgICAgICAgICI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xOCA2TDYgMThNNiA2bDEyIDEyIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob" />
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIiBzdHlsZT0iaGVpZ2h0OjE4cHg7dmVydGljYWwtYWxpZ246bWlkZGxlO3dpZHRoOjE4cHgiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTUtMTAtNXpNMiAxN2wxMCA1IDEwLTVNMiAxMmwxMCA1IDEwLTUiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIiBzdHlsZT0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgaGVpZ2h0OiAxOHB4OwogICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDE4cHg7CiAgICAgICAgICAgICAgICAgICAgICAgICI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTUtMTAtNXpNMiAxN2wxMCA1IDEwLTVNMiAxMmwxMCA1IDEwLTUiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==" class="r-h7gdob" />
 
 <span class="css-901oao css-16my406 css-vcwn7f">Web-Dev-Hub-Docs</span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMWpramIiIHN0eWxlPSJoZWlnaHQ6MThweDt2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MThweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-1jkjb" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMWpramIiIHN0eWxlPSIKICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDE4cHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgdmVydGljYWwtYWxpZ246IG1pZGRsZTsKICAgICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDogMThweDsKICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-h7gdob r-1jkjb" />
 
-<a href="/my-docs/" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../index.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Home
 
-<a href="/my-docs/navigation" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/navigation.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Navigation
 
 Tools
 
-<a href="/my-docs/tools/tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../tools/tools.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Tools
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="/my-docs/tools/showcase" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/tools/showcase.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Showcase
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="/my-docs/tools/downloads" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/tools/downloads.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Downloads
 
-<a href="/my-docs/tools/how-to-configure-ubuntu" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../tools/how-to-configure-ubuntu.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 How To Configure Ubuntu
 
-<a href="/my-docs/tools/links" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../tools/links.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 REPL.IT Compilations
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="/my-docs/tools/past-notes" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/tools/past-notes.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Past Notes
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="/my-docs/tools/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/tools/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Git
 
-<a href="/my-docs/tools/javascript" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../tools/javascript.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 JavaScript
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Programming Languages
 
-<a href="/my-docs/programming-languages/programming-languages" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../programming-languages/programming-languages.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Programming Languages
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="/my-docs/programming-languages/what-is-a-programming-language" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/programming-languages/what-is-a-programming-language.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 What is a Programming Language?
 
 Python
 
-<a href="/my-docs/python/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/python/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Python
 
-<a href="/my-docs/python/install-pip" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../python/install-pip.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Install PIP
 
 JavaScript
 
-<a href="/my-docs/javascript/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/javascript/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 JavaScript
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="/my-docs/javascript/js-leetcode" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/javascript/js-leetcode.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 JS-Leetcode
 
 Web Development Frameworks & Libraries
 
-<a href="/my-docs/web-development-frameworks/graphql" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/web-development-frameworks/graphql.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 GRAPHQL
 
-<a href="/my-docs/web-development-frameworks/react" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/web-development-frameworks/react.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 React
 
-<a href="/my-docs/web-development-frameworks/jquery" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/web-development-frameworks/jquery.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Jquery
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="/my-docs/web-development-frameworks/gatsby" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../web-development-frameworks/gatsby.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 GATSBY
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Productivity
 
-<a href="/my-docs/productivity/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../productivity/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Productivity
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Misc
 
-<a href="/my-docs/misc/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/misc/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Misc
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 GitGateway
 
-<a href="/my-docs/links/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/links/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Links
 
-<a href="/my-docs/links/untitled-1" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/links/untitled-1.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Bookmarks
 
 Websites
 
-<a href="/my-docs/websites/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/websites/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Websites
 
-<a href="/my-docs/websites/untitled-1" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/websites/untitled-1.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Not My Websites:
 
 Backend
 
-<a href="/my-docs/backend/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/backend/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Backend
 
 Networking
 
-<a href="/my-docs/networking/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/networking/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Networks
 
 Resources
 
-<a href="/my-docs/resources/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/resources/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Resources
 
-<a href="/my-docs/resources/untitled-1" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/resources/untitled-1.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Video Resources
 
 General Knowledge
 
-<a href="/my-docs/general-knowledge/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/general-knowledge/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 General Knowledge
 
-<a href="/my-docs/general-knowledge/untitled-1" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/general-knowledge/untitled-1.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Knowledge Bank
 
 Finance
 
-<a href="/my-docs/finance/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/finance/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Finance
 
-<a href="/my-docs/finance/finance-reference" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../finance/finance-reference.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Finance Reference
 
-<a href="/my-docs/finance/untitled-1" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/finance/untitled-1.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Financial Trends
 
 Science & Tech (Innovation)
 
-<a href="/my-docs/science-and-tech-innovation/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/science-and-tech-innovation/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Science & Tech
 
-<a href="/my-docs/science-and-tech-innovation/untitled-1" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/science-and-tech-innovation/untitled-1.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Articles
 
 Reading
 
-<a href="/my-docs/reading/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/reading/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Reading
 
 Social Media & Trends
 
-<a href="/my-docs/social-media-and-trends/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/social-media-and-trends/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Trends In Web Dev
 
-<a href="/my-docs/social-media-and-trends/fb-dev-open-source" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../social-media-and-trends/fb-dev-open-source.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 FB-Dev-Open Source
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="/my-docs/social-media-and-trends/ig-api" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/social-media-and-trends/ig-api.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 IG-API
 
 Docs
 
-<a href="/my-docs/docs/docs" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/docs/docs.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Docs
 
 Code Editors & Tools
 
-<a href="/my-docs/code-editors-and-tools/vscode" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../code-editors-and-tools/vscode.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Vscode
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Cool Stuff
 
-<a href="/my-docs/cool-stuff/cool-observable-notebooks" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/cool-stuff/cool-observable-notebooks.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Cool Observable Notebooks
 
 Server-Side
 
-<a href="/my-docs/server-side/graphql" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../server-side/graphql.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 GraphQL
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="/my-docs/server-side/rest-vs-graphql" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../server-side/rest-vs-graphql.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Rest VS GraphQl
 
-<a href="/my-docs/server-side/rest-api" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/server-side/rest-api.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 REST-API
 
-<a href="/my-docs/server-side/public-apis" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/server-side/public-apis.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Public APIs
 
 WEB\_DEV\_TOOLS
 
-<a href="/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../web_dev_tools/web-dev-tools.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Web Dev Tools
 
-<a href="/my-docs/web_dev_tools/cloudinary" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/web_dev_tools/cloudinary.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Cloudinary
 
-<a href="/my-docs/web_dev_tools/postman" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../web_dev_tools/postman.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Postman
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="/my-docs/web_dev_tools/netlify" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../web_dev_tools/netlify.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Netlify
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 DS\_ALGOS\_BRAINTEASERS
 
-<a href="/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/ds_algos_brainteasers/ds_algos_brainteasers.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 A Quick Guide to Big-O Notation, Memoization, Tabulation, and Sorting Algorithms by Example
 
 Free-Stuff
 
-<a href="/my-docs/free-stuff/free-stuff" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/free-stuff/free-stuff.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Free Stuff
 
 Job-Search
 
-<a href="/my-docs/job-search/job-search" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/job-search/job-search.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Job Search
 
-<a href="/my-docs/job-search/outreach" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../job-search/outreach.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Outreach
 
 General Comp Sci
 
-<a href="/my-docs/general-comp-sci/principles-behind-the-agile-manifesto" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/general-comp-sci/principles-behind-the-agile-manifesto.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Principles behind the Agile Manifesto
 
 Blockchain & Crypto
 
-<a href="/my-docs/blockchain-and-crypto/blockchain-basics" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/blockchain-and-crypto/blockchain-basics.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Blockchain Basics
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Data Structures & Interviewing
 
-<a href="/my-docs/data-structures-and-interviewing/data-structures" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../data-structures-and-interviewing/data-structures.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Data Structures
 
 REACT\_REVISITED
 
-<a href="/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../react_revisited/modern-react-with-redux.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Modern React with Redux
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 WEBDEV-Bootcamp-Notes
 
-<a href="/my-docs/webdev-bootcamp-notes/lambda" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../webdev-bootcamp-notes/lambda.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Lambda
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Group 1
 
-<a href="/my-docs/group-1/testing" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../testing.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Testing:
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNNiA5bDYgNiA2LTYiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTYgOWw2IDYgNi02Ij48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-156hn8l r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="configure-jest-for-testing-javascript-applications.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-156hn8l r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Configure Jest for Testing JavaScript Applications
 
-<a href="/my-docs/group-1/testing/install-configure-and-script-cypress-for-javascript-web-applications" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="install-configure-and-script-cypress-for-javascript-web-applications.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 install, configure, and script Cypress for JavaScript web applications
 
-<a href="/my-docs/group-1/testing/test-react-components-with-jest-and-react-testing-library" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="test-react-components-with-jest-and-react-testing-library.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Test React Components with Jest and \`react-testing-library\`
 
-<a href="/my-docs/group-1/testing/use-testing-library-to-evaluate-any-framework..." class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="use-testing-library-to-evaluate-any-framework....html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Use testing library to evaluate any framework...
 
 Medium-articles
 
-<a href="/my-docs/medium-articles/my-articles" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../medium-articles/my-articles.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 My Articles
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTIzNzc4XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="https://www.gitbook.com/?utm_source=content&amp;utm_medium=trademark&amp;utm_campaign=-MjLjuvITJh8ZwT8mVxp" class="css-4rbku5 css-1dbjc4n r-1uwl36a r-z2wwpe r-1rasi3h r-1loqt21 r-18u37iz r-1fdo3w0 r-1mnahxq r-ymttw5 r-5njf8e r-1otgn73 r-1i6wzkk r-lrvibr"><img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgNTEyIDUxMiIgZmlsbD0ibm9uZSIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItZXUza2Egci0xYW9ja2lkIiBzdHlsZT0idmVydGljYWwtYWxpZ246bWlkZGxlIj48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTIzMC40MzQgMzc5LjU1NGM4LjI1OSAwIDE0Ljk3OCA2LjcxOSAxNC45NzggMTQuOTc0IDAgOC4yNTYtNi43MTkgMTQuOTc0LTE0Ljk3OCAxNC45NzQtOC4yNTUgMC0xNC45NzQtNi43MTgtMTQuOTc0LTE0Ljk3NCAwLTguMjU1IDYuNzE5LTE0Ljk3NCAxNC45NzQtMTQuOTc0em0yMzUuMTg5LTkyLjc1OGMtOC4yNTkgMC0xNC45NzgtNi43MTktMTQuOTc4LTE0Ljk3NCAwLTguMjU5IDYuNzE5LTE0Ljk3OCAxNC45NzgtMTQuOTc4IDguMjU1IDAgMTQuOTc0IDYuNzE5IDE0Ljk3NCAxNC45NzggMCA4LjI1NS02LjcxOSAxNC45NzQtMTQuOTc0IDE0Ljk3NHptMC02MS4zNTFjLTI1LjU3MSAwLTQ2LjM3NyAyMC44MDUtNDYuMzc3IDQ2LjM3NyAwIDQuOTc5LjgyNyA5LjkzOCAyLjQ2IDE0Ljc1N0wyNjguNTAyIDM2OC4xM2MtOC43MDQtMTIuNTQzLTIyLjgxMi0xOS45NzktMzguMDY4LTE5Ljk3OS0xNy42NzYgMC0zMy43OTEgMTAuMTEzLTQxLjU4NiAyNS45MjRMNTEuMjExIDMwMS41MTRjLTE0LjU0LTcuNjQ2LTI1LjQyNS0zMS41OTUtMjQuMjctNTMuMzkyLjU5OC0xMS4zNzEgNC41My0yMC4xOTYgMTAuNTExLTIzLjYwNCAzLjgtMi4xNTcgOC4zNy0xLjk2OCAxMy4yMTQuNTdsLjkyLjQ4NWMzNi40NjQgMTkuMjEyIDE1NS44MjIgODIuMDc5IDE2MC44NDQgODQuNDEzIDcuNzU3IDMuNTg2IDEyLjA2OSA1LjA0MSAyNS4yNzktMS4yMjJsMjQ2LjcyMy0xMjguMzE3YzMuNjE1LTEuMzY1IDcuODMyLTQuODMgNy44MzItMTAuMDkxIDAtNy4zLTcuNTQ2LTEwLjE3Ny03LjU2OC0xMC4xNzctMTQuMDI2LTYuNzI5LTM1LjYwMS0xNi44MjctNTYuNjM5LTI2LjY3Ni00NC45NjUtMjEuMDU1LTk1LjkzMy00NC45MTktMTE4LjMxOC01Ni42MzktMTkuMzIzLTEwLjExNi0zNC44NzctMS41OS0zNy42NS4xMzVsLTUuMzkgMi42NjdDMTY1Ljk2NSAxMjkuNDgyIDMxLjE1NCAxOTYuMjQ4IDIzLjQ3OSAyMDAuOTE3IDkuNzM1IDIwOS4yOCAxLjIyNCAyMjUuOTQuMTIyIDI0Ni42MjVjLTEuNzIyIDMyLjc4OSAxNS4wMDcgNjYuOTY5IDM4LjkxNiA3OS41MTJsMTQ1LjUzNiA3NS4wNTdjMy4yNzkgMjIuNzA5IDIyLjgyNyAzOS43MTIgNDUuODYgMzkuNzEyIDI1LjMzNyAwIDQ1Ljk5Mi0yMC40MjUgNDYuMzc0LTQ1LjY3MmwxNjAuMjkyLTg2Ljg3YTQ2LjQxIDQ2LjQxIDAgMDAyOC41MjMgOS44MzVjMjUuNTcxIDAgNDYuMzc3LTIwLjgwNiA0Ni4zNzctNDYuMzc3IDAtMjUuNTcyLTIwLjgwNi00Ni4zNzctNDYuMzc3LTQ2LjM3N3oiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjwvc3ZnPg==" class="r-eu3ka r-1aockid" /></a>
+<a href="https://www.gitbook.com/?utm_source=content&amp;utm_medium=trademark&amp;utm_campaign=-MjLjuvITJh8ZwT8mVxp" class="css-4rbku5 css-1dbjc4n r-1uwl36a r-z2wwpe r-1rasi3h r-1loqt21 r-18u37iz r-1fdo3w0 r-1mnahxq r-ymttw5 r-5njf8e r-1otgn73 r-1i6wzkk r-lrvibr"><img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgNTEyIDUxMiIgZmlsbD0ibm9uZSIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItZXUza2Egci0xYW9ja2lkIiBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZSI+CiAgICAgICAgICAgICAgICAgICAgPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yMzAuNDM0IDM3OS41NTRjOC4yNTkgMCAxNC45NzggNi43MTkgMTQuOTc4IDE0Ljk3NCAwIDguMjU2LTYuNzE5IDE0Ljk3NC0xNC45NzggMTQuOTc0LTguMjU1IDAtMTQuOTc0LTYuNzE4LTE0Ljk3NC0xNC45NzQgMC04LjI1NSA2LjcxOS0xNC45NzQgMTQuOTc0LTE0Ljk3NHptMjM1LjE4OS05Mi43NThjLTguMjU5IDAtMTQuOTc4LTYuNzE5LTE0Ljk3OC0xNC45NzQgMC04LjI1OSA2LjcxOS0xNC45NzggMTQuOTc4LTE0Ljk3OCA4LjI1NSAwIDE0Ljk3NCA2LjcxOSAxNC45NzQgMTQuOTc4IDAgOC4yNTUtNi43MTkgMTQuOTc0LTE0Ljk3NCAxNC45NzR6bTAtNjEuMzUxYy0yNS41NzEgMC00Ni4zNzcgMjAuODA1LTQ2LjM3NyA0Ni4zNzcgMCA0Ljk3OS44MjcgOS45MzggMi40NiAxNC43NTdMMjY4LjUwMiAzNjguMTNjLTguNzA0LTEyLjU0My0yMi44MTItMTkuOTc5LTM4LjA2OC0xOS45NzktMTcuNjc2IDAtMzMuNzkxIDEwLjExMy00MS41ODYgMjUuOTI0TDUxLjIxMSAzMDEuNTE0Yy0xNC41NC03LjY0Ni0yNS40MjUtMzEuNTk1LTI0LjI3LTUzLjM5Mi41OTgtMTEuMzcxIDQuNTMtMjAuMTk2IDEwLjUxMS0yMy42MDQgMy44LTIuMTU3IDguMzctMS45NjggMTMuMjE0LjU3bC45Mi40ODVjMzYuNDY0IDE5LjIxMiAxNTUuODIyIDgyLjA3OSAxNjAuODQ0IDg0LjQxMyA3Ljc1NyAzLjU4NiAxMi4wNjkgNS4wNDEgMjUuMjc5LTEuMjIybDI0Ni43MjMtMTI4LjMxN2MzLjYxNS0xLjM2NSA3LjgzMi00LjgzIDcuODMyLTEwLjA5MSAwLTcuMy03LjU0Ni0xMC4xNzctNy41NjgtMTAuMTc3LTE0LjAyNi02LjcyOS0zNS42MDEtMTYuODI3LTU2LjYzOS0yNi42NzYtNDQuOTY1LTIxLjA1NS05NS45MzMtNDQuOTE5LTExOC4zMTgtNTYuNjM5LTE5LjMyMy0xMC4xMTYtMzQuODc3LTEuNTktMzcuNjUuMTM1bC01LjM5IDIuNjY3QzE2NS45NjUgMTI5LjQ4MiAzMS4xNTQgMTk2LjI0OCAyMy40NzkgMjAwLjkxNyA5LjczNSAyMDkuMjggMS4yMjQgMjI1Ljk0LjEyMiAyNDYuNjI1Yy0xLjcyMiAzMi43ODkgMTUuMDA3IDY2Ljk2OSAzOC45MTYgNzkuNTEybDE0NS41MzYgNzUuMDU3YzMuMjc5IDIyLjcwOSAyMi44MjcgMzkuNzEyIDQ1Ljg2IDM5LjcxMiAyNS4zMzcgMCA0NS45OTItMjAuNDI1IDQ2LjM3NC00NS42NzJsMTYwLjI5Mi04Ni44N2E0Ni40MSA0Ni40MSAwIDAwMjguNTIzIDkuODM1YzI1LjU3MSAwIDQ2LjM3Ny0yMC44MDYgNDYuMzc3LTQ2LjM3NyAwLTI1LjU3Mi0yMC44MDYtNDYuMzc3LTQ2LjM3Ny00Ni4zNzd6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-eu3ka r-1aockid" /></a>
 
 Powered By <span class="css-901oao css-16my406 r-b88u0q">GitBook</span>
 
@@ -404,33 +404,33 @@ Configure Jest for Testing JavaScript Applications
 
 <span key="287cda3924da427f8a230dda57f944e5"><span offset-key="287cda3924da427f8a230dda57f944e5:0">ohana</span></span>
 
-<a href="/my-docs/group-1/testing" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-18u37iz r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../testing.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-18u37iz r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fMjU3LTIzNzc0X18iIGNsYXNzPSJyLTFyYXNpM2ggci1tYWJxZDggci0xdnppOHhpIHItMXl2aHRyeiI+PHBhdGggZD0iTTE0LjUgMTZoLTEzYS41LjUgMCAwMS0uNS0uNVYuNWEuNS41IDAgMDEuNS0uNWgxM2EuNS41IDAgMDEuNS41djE1YS41LjUgMCAwMS0uNS41ek0yIDE1aDEyVjFIMnYxNHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjxwYXRoIGQ9Ik0xMyAySDN2MWgxMFYyek0xMyAxM0gzdjFoMTB2LTF6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48L3N2Zz4=" class="r-1rasi3h r-mabqd8 r-1vzi8xi r-1yvhtrz" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fMjU3LTIzNzc0X18iIGNsYXNzPSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHItMXJhc2kzaAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgci1tYWJxZDgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHItMXZ6aTh4aQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgci0xeXZodHJ6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMTQuNSAxNmgtMTNhLjUuNSAwIDAxLS41LS41Vi41YS41LjUgMCAwMS41LS41aDEzYS41LjUgMCAwMS41LjV2MTVhLjUuNSAwIDAxLS41LjV6TTIgMTVoMTJWMUgydjE0eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTEzIDJIM3YxaDEwVjJ6TTEzIDEzSDN2MWgxMHYtMXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1rasi3h r-mabqd8 r-1vzi8xi r-1yvhtrz" />
 
 Testing:
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-18u37iz r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="configure-jest-for-testing-javascript-applications.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-18u37iz r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fMjU3LTIzNzc0X18iIGNsYXNzPSJyLTFyYXNpM2ggci1tYWJxZDggci0xdnppOHhpIHItMXl2aHRyeiI+PHBhdGggZD0iTTE0LjUgMTZoLTEzYS41LjUgMCAwMS0uNS0uNVYuNWEuNS41IDAgMDEuNS0uNWgxM2EuNS41IDAgMDEuNS41djE1YS41LjUgMCAwMS0uNS41ek0yIDE1aDEyVjFIMnYxNHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjxwYXRoIGQ9Ik0xMyAySDN2MWgxMFYyek0xMyAxM0gzdjFoMTB2LTF6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48L3N2Zz4=" class="r-1rasi3h r-mabqd8 r-1vzi8xi r-1yvhtrz" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fMjU3LTIzNzc0X18iIGNsYXNzPSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHItMXJhc2kzaAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgci1tYWJxZDgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHItMXZ6aTh4aQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgci0xeXZodHJ6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMTQuNSAxNmgtMTNhLjUuNSAwIDAxLS41LS41Vi41YS41LjUgMCAwMS41LS41aDEzYS41LjUgMCAwMS41LjV2MTVhLjUuNSAwIDAxLS41LjV6TTIgMTVoMTJWMUgydjE0eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTEzIDJIM3YxaDEwVjJ6TTEzIDEzSDN2MWgxMHYtMXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1rasi3h r-mabqd8 r-1vzi8xi r-1yvhtrz" />
 
 Configure Jest for Testing JavaScript Applications
 
-<a href="/my-docs/group-1/testing/install-configure-and-script-cypress-for-javascript-web-applications" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-18u37iz r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="install-configure-and-script-cypress-for-javascript-web-applications.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-18u37iz r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fMjU3LTIzNzc0X18iIGNsYXNzPSJyLTFyYXNpM2ggci1tYWJxZDggci0xdnppOHhpIHItMXl2aHRyeiI+PHBhdGggZD0iTTE0LjUgMTZoLTEzYS41LjUgMCAwMS0uNS0uNVYuNWEuNS41IDAgMDEuNS0uNWgxM2EuNS41IDAgMDEuNS41djE1YS41LjUgMCAwMS0uNS41ek0yIDE1aDEyVjFIMnYxNHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjxwYXRoIGQ9Ik0xMyAySDN2MWgxMFYyek0xMyAxM0gzdjFoMTB2LTF6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48L3N2Zz4=" class="r-1rasi3h r-mabqd8 r-1vzi8xi r-1yvhtrz" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fMjU3LTIzNzc0X18iIGNsYXNzPSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHItMXJhc2kzaAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgci1tYWJxZDgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHItMXZ6aTh4aQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgci0xeXZodHJ6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMTQuNSAxNmgtMTNhLjUuNSAwIDAxLS41LS41Vi41YS41LjUgMCAwMS41LS41aDEzYS41LjUgMCAwMS41LjV2MTVhLjUuNSAwIDAxLS41LjV6TTIgMTVoMTJWMUgydjE0eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTEzIDJIM3YxaDEwVjJ6TTEzIDEzSDN2MWgxMHYtMXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1rasi3h r-mabqd8 r-1vzi8xi r-1yvhtrz" />
 
 install, configure, and script Cypress for JavaScript web applications
 
-<a href="/my-docs/group-1/testing/test-react-components-with-jest-and-react-testing-library" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-18u37iz r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="test-react-components-with-jest-and-react-testing-library.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-18u37iz r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fMjU3LTIzNzc0X18iIGNsYXNzPSJyLTFyYXNpM2ggci1tYWJxZDggci0xdnppOHhpIHItMXl2aHRyeiI+PHBhdGggZD0iTTE0LjUgMTZoLTEzYS41LjUgMCAwMS0uNS0uNVYuNWEuNS41IDAgMDEuNS0uNWgxM2EuNS41IDAgMDEuNS41djE1YS41LjUgMCAwMS0uNS41ek0yIDE1aDEyVjFIMnYxNHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjxwYXRoIGQ9Ik0xMyAySDN2MWgxMFYyek0xMyAxM0gzdjFoMTB2LTF6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48L3N2Zz4=" class="r-1rasi3h r-mabqd8 r-1vzi8xi r-1yvhtrz" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fMjU3LTIzNzc0X18iIGNsYXNzPSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHItMXJhc2kzaAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgci1tYWJxZDgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHItMXZ6aTh4aQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgci0xeXZodHJ6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMTQuNSAxNmgtMTNhLjUuNSAwIDAxLS41LS41Vi41YS41LjUgMCAwMS41LS41aDEzYS41LjUgMCAwMS41LjV2MTVhLjUuNSAwIDAxLS41LjV6TTIgMTVoMTJWMUgydjE0eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTEzIDJIM3YxaDEwVjJ6TTEzIDEzSDN2MWgxMHYtMXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1rasi3h r-mabqd8 r-1vzi8xi r-1yvhtrz" />
 
 Test React Components with Jest and \`react-testing-library\`
 
-<a href="/my-docs/group-1/testing/use-testing-library-to-evaluate-any-framework..." class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-18u37iz r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="use-testing-library-to-evaluate-any-framework....html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-18u37iz r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fMjU3LTIzNzc0X18iIGNsYXNzPSJyLTFyYXNpM2ggci1tYWJxZDggci0xdnppOHhpIHItMXl2aHRyeiI+PHBhdGggZD0iTTE0LjUgMTZoLTEzYS41LjUgMCAwMS0uNS0uNVYuNWEuNS41IDAgMDEuNS0uNWgxM2EuNS41IDAgMDEuNS41djE1YS41LjUgMCAwMS0uNS41ek0yIDE1aDEyVjFIMnYxNHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjxwYXRoIGQ9Ik0xMyAySDN2MWgxMFYyek0xMyAxM0gzdjFoMTB2LTF6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48L3N2Zz4=" class="r-1rasi3h r-mabqd8 r-1vzi8xi r-1yvhtrz" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fMjU3LTIzNzc0X18iIGNsYXNzPSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHItMXJhc2kzaAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgci1tYWJxZDgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHItMXZ6aTh4aQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgci0xeXZodHJ6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMTQuNSAxNmgtMTNhLjUuNSAwIDAxLS41LS41Vi41YS41LjUgMCAwMS41LS41aDEzYS41LjUgMCAwMS41LjV2MTVhLjUuNSAwIDAxLS41LjV6TTIgMTVoMTJWMUgydjE0eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTEzIDJIM3YxaDEwVjJ6TTEzIDEzSDN2MWgxMHYtMXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1rasi3h r-mabqd8 r-1vzi8xi r-1yvhtrz" />
 
 Use testing library to evaluate any framework...
 
@@ -438,99 +438,99 @@ Use testing library to evaluate any framework...
 
 <span key="b9a050e61b5a4ac196c4ba25092ca2c6">**Table of Contents**</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="0a84c1d9e097473d8003fbc363bf72d2"><span offset-key="0a84c1d9e097473d8003fbc363bf72d2:0">1. Install and run Jest</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="f0d23c6b24724f279da668fe1c952190"><span offset-key="f0d23c6b24724f279da668fe1c952190:0">2. Transpile modules with babel in Jest tests</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="52baa58a55d44feaa9b69f891b32933c"><span offset-key="52baa58a55d44feaa9b69f891b32933c:0">3. Configure Jest’s test environment for testing node or browser code</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="f1935e9becc54db18e47f1579ce02a11"><span offset-key="f1935e9becc54db18e47f1579ce02a11:0">4. Support importing CSS files with Jest’s moduleNameMapper</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="365f7ed0694c44b4ba8fdc48de684d9d"><span offset-key="365f7ed0694c44b4ba8fdc48de684d9d:0">5. Support using webpack CSS modules with Jest</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="866f5a1f6df945b884a4d963b04259b6"><span offset-key="866f5a1f6df945b884a4d963b04259b6:0">6. Generate a Serializable Value with Jest Snapshots</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="0cd943df7fe04d43a87b2427c2fe108a"><span offset-key="0cd943df7fe04d43a87b2427c2fe108a:0">7. Test an Emotion Styled UI with Custom Jest Snapshot Serializers</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="787369a726c943d8901ca863ae58be2b"><span offset-key="787369a726c943d8901ca863ae58be2b:0">8. Handle Dynamic Imports using Babel with Jest</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="ef5c738c16564efc97114282aa6b200f"><span offset-key="ef5c738c16564efc97114282aa6b200f:0">9. Setup an afterEach Test Hook for all tests with Jest setupTestFrameworkScriptFile</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="60e38b96ba1b499c9ae433f616186693"><span offset-key="60e38b96ba1b499c9ae433f616186693:0">10. Support custom module resolution with Jest moduleDirectories</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="000be758e07b476cbd3f86a29c895040"><span offset-key="000be758e07b476cbd3f86a29c895040:0">11. Support a test utilities file with Jest moduleDirectories</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="aa6fab1fc9764b08ba00d49308396c59"><span offset-key="aa6fab1fc9764b08ba00d49308396c59:0">12. Step through Code in Jest using the Node.js Debugger and Chrome DevTools</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="f120d2d13aac4e76846c49975ba22811"><span offset-key="f120d2d13aac4e76846c49975ba22811:0">13. Configure Jest to report code coverage on project files</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="6f4a77628391434b9acbee3e6ffd1021"><span offset-key="6f4a77628391434b9acbee3e6ffd1021:0">14. Analyze Jest Code Coverage Reports</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="8e6b8383d6ee4600a9423ed727e8c7df"><span offset-key="8e6b8383d6ee4600a9423ed727e8c7df:0">15. Set a code coverage threshold in Jest to maintain code coverage levels</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="aac9a9cbb20541bd87b1dd662a98846f"><span offset-key="aac9a9cbb20541bd87b1dd662a98846f:0">16. Report Jest Test Coverage to Codecov through TavisCI</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="ea58f8159ae244c99c4888c491ffe840"><span offset-key="ea58f8159ae244c99c4888c491ffe840:0">17. Use Jest Watch Mode to speed up development</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="853ef92639cf4ada9f7470dbaed63580"><span offset-key="853ef92639cf4ada9f7470dbaed63580:0">18. Run Jest Watch Mode by default locally with is-ci-cli</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="9ab0f7f9d15a4003873150de95c218a6"><span offset-key="9ab0f7f9d15a4003873150de95c218a6:0">19. Filter which Tests are Run with Typeahead Support in Jest Watch Mode</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="1f3124c49c704e3db0cd962ce3f787a4"><span offset-key="1f3124c49c704e3db0cd962ce3f787a4:0">20. Run tests with a different configuration using Jest’s </span>`--config`<span offset-key="1f3124c49c704e3db0cd962ce3f787a4:2"> flag and testMatch option</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="e6d962c3ed464782a8ff8a74dbe765c6"><span offset-key="e6d962c3ed464782a8ff8a74dbe765c6:0">21. Support Running Multiple Configurations with Jest’s Projects Feature</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="d264276bf7064d499ef54f134aa51c0d"><span offset-key="d264276bf7064d499ef54f134aa51c0d:0">22. Test specific projects in Jest Watch Mode with jest-watch-select-projects</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="3dbf92fcb0734d90a6c5bb1333aba70d"><span offset-key="3dbf92fcb0734d90a6c5bb1333aba70d:0">23. Run ESLint with Jest using jest-runner-eslint</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
     <span key="9fd5385f807b48b1b6c1424c435132de"><span offset-key="9fd5385f807b48b1b6c1424c435132de:0">24. Run only relevant Jest tests on git commit to avoid breakages</span></span>
 
@@ -544,7 +544,7 @@ Use testing library to evaluate any framework...
 
 <span key="768ad38e4b6b4a08a1ae53f95ad1dcbd"><span offset-key="768ad38e4b6b4a08a1ae53f95ad1dcbd:0">$ npx jest 01</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxNnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7" />
 
 Copied!
 
@@ -558,7 +558,7 @@ Copied!
 
 <span key="cd2be935ee2c45f88730134f25d420e3"><span offset-key="cd2be935ee2c45f88730134f25d420e3:0">$ npx jest 02</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -580,7 +580,7 @@ Copied!
 
 <span key="f8c17734d9bb447289d3aa1c26d6a3ed"><span offset-key="f8c17734d9bb447289d3aa1c26d6a3ed:0">$ npx jest 03</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -604,7 +604,7 @@ Copied!
 
 <span key="28af01b8704442feaf1904e0f2cd3146"><span offset-key="28af01b8704442feaf1904e0f2cd3146:0">$ </span><span slate-leaf="true" offset-key="28af01b8704442feaf1904e0f2cd3146:1">npm</span><span offset-key="28af01b8704442feaf1904e0f2cd3146:2"> t -- --env</span><span class="r-11faab8" slate-leaf="true" offset-key="28af01b8704442feaf1904e0f2cd3146:3">=</span><span offset-key="28af01b8704442feaf1904e0f2cd3146:4">node</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -618,7 +618,7 @@ Copied!
 
 <span key="7fae3ce453c34dec9be8394387f7b137"><span offset-key="7fae3ce453c34dec9be8394387f7b137:0">$ npx jest 04</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -640,7 +640,7 @@ Copied!
 
 <span key="80b0bd366eca46abb4d6ca714dff7a7d"><span offset-key="80b0bd366eca46abb4d6ca714dff7a7d:0">$ npx jest 05</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -660,7 +660,7 @@ Copied!
 
 <span key="48c2db4637f34b649eb76d095c9f5baf"><span offset-key="48c2db4637f34b649eb76d095c9f5baf:0">$ npx jest 06</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -678,7 +678,7 @@ Copied!
 
 <span key="7867e18bf8624f87aa965b2caa731543"><span offset-key="7867e18bf8624f87aa965b2caa731543:0">$ npx jest 07</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -698,7 +698,7 @@ Copied!
 
 <span key="419b90577c9846159886e896ea7f864c"><span offset-key="419b90577c9846159886e896ea7f864c:0">$ npx jest 08</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -716,7 +716,7 @@ Copied!
 
 <span key="e743caba46a545608794fe4d5b207957"><span offset-key="e743caba46a545608794fe4d5b207957:0">$ npx jest 09</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -726,10 +726,10 @@ Copied!
 
 <span key="e35730e039204e218fa474a37628ab2d"><span offset-key="e35730e039204e218fa474a37628ab2d:0">There are 2 ways to configure Jest to automatically import code into tests:</span></span>
 
-1.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">1.</span>
+1.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">1.</span>
     <span key="63b4c80b7c764a38861fa6258686fce6">`setupFiles`<span offset-key="63b4c80b7c764a38861fa6258686fce6:1"> - this is an array of files that are run </span>*before Jest is loaded*<span offset-key="63b4c80b7c764a38861fa6258686fce6:3">. This is useful for anything that doesn't need Jest to be loaded.</span></span>
 
-2.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">2.</span>
+2.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">2.</span>
     <span key="9effd83d73bc4469bab9315956c4a008">`setupTestFrameworkScriptFile`<span offset-key="9effd83d73bc4469bab9315956c4a008:1"> - a path to a file that we want run once Jest has loaded. This file is needed if we are going to do things like add snapshot serialisers, mocks, etc.</span></span>
 
 ## 
@@ -742,7 +742,7 @@ Copied!
 
 <span key="9b2adcda7a314fe494a0e602907aecb9"><span offset-key="9b2adcda7a314fe494a0e602907aecb9:0">$ npx jest </span><span class="r-11faab8" slate-leaf="true" offset-key="9b2adcda7a314fe494a0e602907aecb9:1">10</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -768,7 +768,7 @@ Copied!
 
 <span key="00e7062479244b9d94fe9ba9cad2ea46"><span offset-key="00e7062479244b9d94fe9ba9cad2ea46:0">$ npx jest </span><span class="r-11faab8" slate-leaf="true" offset-key="00e7062479244b9d94fe9ba9cad2ea46:1">11</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -790,7 +790,7 @@ Copied!
 
 <span key="a47c4d0149a54a4d9b3cb3776dfeae82"><span offset-key="a47c4d0149a54a4d9b3cb3776dfeae82:0">$ </span><span slate-leaf="true" offset-key="a47c4d0149a54a4d9b3cb3776dfeae82:1">npm</span><span offset-key="a47c4d0149a54a4d9b3cb3776dfeae82:2"> i -D eslint-import-resolver-jest</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -856,7 +856,7 @@ Copied!
 
 <span key="d1900b33d6c24d2996d17a0b6a92ba40"><span class="r-11faab8" slate-leaf="true" offset-key="d1900b33d6c24d2996d17a0b6a92ba40:0">...</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -876,7 +876,7 @@ Copied!
 
 <span key="7fd9e2822a104e43883f9ca1a08b05d5"><span offset-key="7fd9e2822a104e43883f9ca1a08b05d5:0">$ npx jest --coverage</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -890,7 +890,7 @@ Copied!
 
 <span key="ae4f1031639249ac88931d36fabc333c"><span offset-key="ae4f1031639249ac88931d36fabc333c:0">$ npx jest --coverage </span><span class="r-11faab8" slate-leaf="true" offset-key="ae4f1031639249ac88931d36fabc333c:1">&&</span><span offset-key="ae4f1031639249ac88931d36fabc333c:2"> </span><span slate-leaf="true" offset-key="ae4f1031639249ac88931d36fabc333c:3">cd</span><span offset-key="ae4f1031639249ac88931d36fabc333c:4"> coverage/lcov-report </span><span class="r-11faab8" slate-leaf="true" offset-key="ae4f1031639249ac88931d36fabc333c:5">&&</span><span offset-key="ae4f1031639249ac88931d36fabc333c:6"> npx serve</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -916,7 +916,7 @@ Copied!
 
 <span key="7f2545c7ac7a4f4586039fa9c62f8c92"><span offset-key="7f2545c7ac7a4f4586039fa9c62f8c92:0">$ npx jest --coverage</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -946,51 +946,51 @@ Copied!
 
 <span key="58f46a844eac471eab577d91a1d6359c"><span offset-key="58f46a844eac471eab577d91a1d6359c:0">Interactive mode commands:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
 
     <span key="7704ca009bab4a669bd6bcb067feecd7">`u`<span offset-key="7704ca009bab4a669bd6bcb067feecd7:1"> update all failed snapshots</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
 
     <span key="d4dcb655db7040c284181803897fbd04">`i`<span offset-key="d4dcb655db7040c284181803897fbd04:1"> interactively update failed snapshots</span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==" class="r-1nf4jbm r-1vzi8xi" />
 
         <span key="752b1b4a95c14a1380c76b89c1019e6a">`u`<span offset-key="752b1b4a95c14a1380c76b89c1019e6a:1"> update the current snapshot</span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==" class="r-1nf4jbm r-1vzi8xi" />
 
         <span key="23b68fbc91104a24ae9cc99c2c308d53">`s`<span offset-key="23b68fbc91104a24ae9cc99c2c308d53:1"> skip the current snapshot</span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==" class="r-1nf4jbm r-1vzi8xi" />
 
         <span key="e26e714cdd0f43c4bbcf7688a8f425ef">`q`<span offset-key="e26e714cdd0f43c4bbcf7688a8f425ef:1"> quit interactive snapshot updating</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
 
     <span key="046842ce5c7547b7b02cc9d173764381">`f`<span offset-key="046842ce5c7547b7b02cc9d173764381:1"> run only failing tests</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
 
     <span key="799e383ab9254592a31b8ebe5f0a6e5a">`a`<span offset-key="799e383ab9254592a31b8ebe5f0a6e5a:1"> run all tests</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
 
     <span key="4589cfe4a2f747c7afdc99dc3a64457a">`o`<span offset-key="4589cfe4a2f747c7afdc99dc3a64457a:1"> run tests only for files that are modified</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
 
     <span key="4e900995dd5343f48a4bf39b26da703b">`p`<span offset-key="4e900995dd5343f48a4bf39b26da703b:1"> filter by filename regex pattern</span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDEycHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==" class="r-1nf4jbm r-1vzi8xi" />
 
         <span key="a0b2723d813a41f09e64c9d25965305d">`c`<span offset-key="a0b2723d813a41f09e64c9d25965305d:1"> clear filters</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
 
     <span key="90ac20db342c41a695c28a6c70df491c">`t`<span offset-key="90ac20db342c41a695c28a6c70df491c:1"> filter by test name regex pattern. This behaves in a similar way to using </span>`test.only`<span offset-key="90ac20db342c41a695c28a6c70df491c:3"> to run only specified tests</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
 
     <span key="7cf19ee9307546fb927b06b89559a626">`Enter`<span offset-key="7cf19ee9307546fb927b06b89559a626:1"> rerun the current tests</span></span>
 
@@ -1028,7 +1028,7 @@ Copied!
 
 <span key="c09a8e0e6c894f309f67459789a30b06"><span offset-key="c09a8e0e6c894f309f67459789a30b06:0">...</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -1084,7 +1084,7 @@ Copied!
 
 <span key="69d31bef5425498f9f840a3e354a65fd"><span offset-key="69d31bef5425498f9f840a3e354a65fd:0">$ npx jest --projects test/jest.client.js test/jest.server.js --coverage</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -1098,7 +1098,7 @@ Copied!
 
 <span key="f4aca88418224226a6b09bef005fe61c"><span offset-key="f4aca88418224226a6b09bef005fe61c:0">$ npx jest --config test/jest.client.js --showConfig</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -1166,7 +1166,7 @@ Copied!
 
 <span key="3674332c57b04a15ab69d6dd1cef9cae"><span offset-key="3674332c57b04a15ab69d6dd1cef9cae:0">...</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -1186,130 +1186,130 @@ Copied!
 
 <span key="7899764729784e87b9bdd093cced3be0"><span class="r-11faab8" slate-leaf="true" offset-key="7899764729784e87b9bdd093cced3be0:0">...</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0yMzc3OF8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
 <span key="fe76122abbd74811ab5cc4ba202946da"><span offset-key="fe76122abbd74811ab5cc4ba202946da:0">Jest will run tests on only the staged js files, as passed to it by </span>`lint-staged`<span offset-key="fe76122abbd74811ab5cc4ba202946da:2">, triggered by our </span>`precommit`<span offset-key="fe76122abbd74811ab5cc4ba202946da:4"> hook that is run by </span>`husky`<span offset-key="fe76122abbd74811ab5cc4ba202946da:6">.</span></span>
 
-<a href="/my-docs/group-1/testing" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-1ro0kt6 r-18u37iz r-16y2uox r-1wbh5a2 r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../testing.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-1ro0kt6 r-18u37iz r-16y2uox r-1wbh5a2 r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X18yNTctMjM3NzRfXyIgY2xhc3M9InItMXJhc2kzaCByLTE0NzJtd2cgci0xdnppOHhpIHItbHJzbGxwIj48cGF0aCBkPSJNMTkgMTJINU0xMiAxOWwtNy03IDctNyI+PC9wYXRoPjwvc3ZnPg==" class="r-1rasi3h r-1472mwg r-1vzi8xi r-lrsllp" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X18yNTctMjM3NzRfXyIgY2xhc3M9InItMXJhc2kzaCByLTE0NzJtd2cgci0xdnppOHhpIHItbHJzbGxwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xOSAxMkg1TTEyIDE5bC03LTcgNy03Ij48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1rasi3h r-1472mwg r-1vzi8xi r-lrsllp" />
 
 Group 1 - Previous
 
 Testing:
 
-<a href="/my-docs/group-1/testing/install-configure-and-script-cypress-for-javascript-web-applications" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-1ro0kt6 r-18u37iz r-16y2uox r-1wbh5a2 r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="install-configure-and-script-cypress-for-javascript-web-applications.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-1ro0kt6 r-18u37iz r-16y2uox r-1wbh5a2 r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Next
 
 install, configure, and script Cypress for JavaScript web applications
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X18yNTctMjM3NzRfXyIgY2xhc3M9InItMXJhc2kzaCByLTE0NzJtd2cgci0xdnppOHhpIHItbHJzbGxwIj48cGF0aCBkPSJNNSAxMmgxNE0xMiA1bDcgNy03IDciPjwvcGF0aD48L3N2Zz4=" class="r-1rasi3h r-1472mwg r-1vzi8xi r-lrsllp" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X18yNTctMjM3NzRfXyIgY2xhc3M9InItMXJhc2kzaCByLTE0NzJtd2cgci0xdnppOHhpIHItbHJzbGxwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik01IDEyaDE0TTEyIDVsNyA3LTcgNyI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==" class="r-1rasi3h r-1472mwg r-1vzi8xi r-lrsllp" />
 
 Last modified <span class="css-901oao css-16my406" aria-label="2021-11-03 09:45 UTC">1d ago</span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzI1Ny0yMzc3NF8iIGNsYXNzPSJyLTFyYXNpM2ggci0xMHB0dW43IiBzdHlsZT0idmVydGljYWwtYWxpZ246bWlkZGxlO3dpZHRoOjE2cHgiPjxwYXRoIGQ9Ik0xNC4xMSA2LjZsLS4xNi0uMDljLS4wNDIuMzQzLS4xMy42OC0uMjYgMUEzIDMgMCAwMTE1IDEwYTMgMyAwIDAxLTMgM0g4YTMgMyAwIDAxMC02aC44MkEzIDMgMCAwMDkgNkg4YTQgNCAwIDAwMCA4aDRhNCA0IDAgMDAyLjExLTcuNHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjxwYXRoIGQ9Ik0xLjg5IDkuNGwuMTYuMDljLjA0Mi0uMzQzLjEzLS42OC4yNi0xQTMgMyAwIDAxMSA2YTMgMyAwIDAxMy0zaDRhMyAzIDAgMTEwIDZoLS44MkEzIDMgMCAwMDcgMTBoMWE0IDQgMCAwMDAtOEg0YTQgNCAwIDAwLTIuMTEgNy40eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-1rasi3h r-10ptun7" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzI1Ny0yMzc3NF8iIGNsYXNzPSJyLTFyYXNpM2ggci0xMHB0dW43IiBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZTsgd2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xNC4xMSA2LjZsLS4xNi0uMDljLS4wNDIuMzQzLS4xMy42OC0uMjYgMUEzIDMgMCAwMTE1IDEwYTMgMyAwIDAxLTMgM0g4YTMgMyAwIDAxMC02aC44MkEzIDMgMCAwMDkgNkg4YTQgNCAwIDAwMCA4aDRhNCA0IDAgMDAyLjExLTcuNHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xLjg5IDkuNGwuMTYuMDljLjA0Mi0uMzQzLjEzLS42OC4yNi0xQTMgMyAwIDAxMSA2YTMgMyAwIDAxMy0zaDRhMyAzIDAgMTEwIDZoLS44MkEzIDMgMCAwMDcgMTBoMWE0IDQgMCAwMDAtOEg0YTQgNCAwIDAwLTIuMTEgNy40eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==" class="r-1rasi3h r-10ptun7" />
 
 Copy link
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMXJhc2kzaCByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZD0iTTIxIDEwSDdNMjEgNkgzTTIxIDE0SDNNMjEgMThINyI+PC9wYXRoPjwvc3ZnPg==" class="r-1rasi3h r-10ptun7" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMXJhc2kzaCByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOyB3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMjEgMTBIN00yMSA2SDNNMjEgMTRIM00yMSAxOEg3Ij48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1rasi3h r-10ptun7" />
 
 Contents
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#1.-install-and-run-jest" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#1.-install-and-run-jest" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 1\. Install and run Jest
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#2.-transpile-modules-with-babel-in-jest-tests" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#2.-transpile-modules-with-babel-in-jest-tests" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 2\. Transpile modules with babel in Jest tests
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#3.-configure-jests-test-environment-for-testing-node-or-browser-code" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#3.-configure-jests-test-environment-for-testing-node-or-browser-code" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 3\. Configure Jest’s test environment for testing node or browser code
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#4.-support-importing-css-files-with-jests-modulenamemapper" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#4.-support-importing-css-files-with-jests-modulenamemapper" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 4\. Support importing CSS files with Jest’s moduleNameMapper
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#5.-support-using-webpack-css-modules-with-jest" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#5.-support-using-webpack-css-modules-with-jest" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 5\. Support using webpack CSS modules with Jest
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#6.-generate-a-serializable-value-with-jest-snapshots" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#6.-generate-a-serializable-value-with-jest-snapshots" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 6\. Generate a Serializable Value with Jest Snapshots
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#7.-test-an-emotion-styled-ui-with-custom-jest-snapshot-serializers" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#7.-test-an-emotion-styled-ui-with-custom-jest-snapshot-serializers" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 7\. Test an Emotion Styled UI with Custom Jest Snapshot Serializers
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#8.-handle-dynamic-imports-using-babel-with-jest" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#8.-handle-dynamic-imports-using-babel-with-jest" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 8\. Handle Dynamic Imports using Babel with Jest
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#9.-setup-an-aftereach-test-hook-for-all-tests-with-jest-setuptestframeworkscriptfile" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#9.-setup-an-aftereach-test-hook-for-all-tests-with-jest-setuptestframeworkscriptfile" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 9\. Setup an afterEach Test Hook for all tests with Jest setupTestFrameworkScriptFile
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#10.-support-custom-module-resolution-with-jest-moduledirectories" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#10.-support-custom-module-resolution-with-jest-moduledirectories" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 10\. Support custom module resolution with Jest moduleDirectories
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#11.-support-a-test-utilities-file-with-jest-moduledirectories" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#11.-support-a-test-utilities-file-with-jest-moduledirectories" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 11\. Support a test utilities file with Jest moduleDirectories
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#12.-step-through-code-in-jest-using-the-node.js-debugger-and-chrome-devtools" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#12.-step-through-code-in-jest-using-the-node.js-debugger-and-chrome-devtools" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 12\. Step through Code in Jest using the Node.js Debugger and Chrome DevTools
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#13.-configure-jest-to-report-code-coverage-on-project-files" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#13.-configure-jest-to-report-code-coverage-on-project-files" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 13\. Configure Jest to report code coverage on project files
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#14.-analyze-jest-code-coverage-reports" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#14.-analyze-jest-code-coverage-reports" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 14\. Analyze Jest Code Coverage Reports
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#15.-set-a-code-coverage-threshold-in-jest-to-maintain-code-coverage-levels" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#15.-set-a-code-coverage-threshold-in-jest-to-maintain-code-coverage-levels" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 15\. Set a code coverage threshold in Jest to maintain code coverage levels
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#16.-report-jest-test-coverage-to-codecov-through-tavisci" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#16.-report-jest-test-coverage-to-codecov-through-tavisci" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 16\. Report Jest Test Coverage to Codecov through TavisCI
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#17.-use-jest-watch-mode-to-speed-up-development" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#17.-use-jest-watch-mode-to-speed-up-development" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 17\. Use Jest Watch Mode to speed up development
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#18.-run-jest-watch-mode-by-default-locally-with-is-ci-cli" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#18.-run-jest-watch-mode-by-default-locally-with-is-ci-cli" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 18\. Run Jest Watch Mode by default locally with is-ci-cli
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#19.-filter-which-tests-are-run-with-typeahead-support-in-jest-watch-mode" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#19.-filter-which-tests-are-run-with-typeahead-support-in-jest-watch-mode" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 19\. Filter which Tests are Run with Typeahead Support in Jest Watch Mode
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#20.-run-tests-with-a-different-configuration-using-jests-config-flag-and-testmatch-option" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#20.-run-tests-with-a-different-configuration-using-jests-config-flag-and-testmatch-option" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 20\. Run tests with a different configuration using Jest’s --config flag and testMatch option
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#21.-support-running-multiple-configurations-with-jests-projects-feature" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#21.-support-running-multiple-configurations-with-jests-projects-feature" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 21\. Support Running Multiple Configurations with Jest’s Projects Feature
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#22.-test-specific-projects-in-jest-watch-mode-with-jest-watch-select-projects" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#22.-test-specific-projects-in-jest-watch-mode-with-jest-watch-select-projects" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 22\. Test specific projects in Jest Watch Mode with jest-watch-select-projects
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#23.-run-eslint-with-jest-using-jest-runner-eslint" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#23.-run-eslint-with-jest-using-jest-runner-eslint" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 23\. Run ESLint with Jest using jest-runner-eslint
 
-<a href="/my-docs/group-1/testing/configure-jest-for-testing-javascript-applications#24.-run-only-relevant-jest-tests-on-git-commit-to-avoid-breakages" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="configure-jest-for-testing-javascript-applications.html#24.-run-only-relevant-jest-tests-on-git-commit-to-avoid-breakages" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 24\. Run only relevant Jest tests on git commit to avoid breakages

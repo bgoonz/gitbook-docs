@@ -1,484 +1,484 @@
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNjk2XyIgY2xhc3M9InItaDdnZG9iIiBzdHlsZT0iaGVpZ2h0OjE4cHg7dmVydGljYWwtYWxpZ246bWlkZGxlO3dpZHRoOjE4cHgiPjxwYXRoIGQ9Ik0zIDEyaDE4TTMgNmgxOE0zIDE4aDE4Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNjk2XyIgY2xhc3M9InItaDdnZG9iIiBzdHlsZT0iaGVpZ2h0OiAxOHB4OyB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOyB3aWR0aDogMThweCI+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMyAxMmgxOE0zIDZoMThNMyAxOGgxOCI+PC9wYXRoPgogICAgICAgICAgICAgIDwvc3ZnPg==" class="r-h7gdob" />
 
-<a href="/my-docs/" class="css-4rbku5 css-1dbjc4n r-1awozwy r-1loqt21 r-18u37iz r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../index.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-1loqt21 r-18u37iz r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 <span class="css-901oao css-16my406 css-vcwn7f" aria-label="My Docs" rnw-int-class="nearest_243__257-38707_">My Docs</span>
 
 <a href="https://bgoonz-blog.netlify.app" class="css-4rbku5 css-901oao css-cens5h r-howw7u r-1loqt21 r-gg6oyi r-ubezar r-majxgm r-135wba7 r-ymttw5">My Blog</a><a href="https://py-v2.gitbook.io/datastructures-in-pytho/" class="css-4rbku5 css-901oao css-cens5h r-howw7u r-1loqt21 r-gg6oyi r-ubezar r-majxgm r-135wba7 r-ymttw5">Python Data Structures</a><a href="https://github.com/bgoonz/Web-Dev-Hub-Docs" class="css-4rbku5 css-901oao css-cens5h r-howw7u r-1loqt21 r-gg6oyi r-ubezar r-majxgm r-135wba7 r-ymttw5">Repo</a><a href="https://lambda-labs.gitbook.io/lambda-labs/" class="css-4rbku5 css-901oao css-cens5h r-howw7u r-1loqt21 r-gg6oyi r-ubezar r-majxgm r-135wba7 r-ymttw5">Family-Promise-Docs</a>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiIgc3R5bGU9ImhlaWdodDoxNnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxNnB4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTEwLjUgNGE2LjUgNi41IDAgMTAwIDEzIDYuNSA2LjUgMCAwMDAtMTN6TTIgMTAuNWE4LjUgOC41IDAgMTExNyAwIDguNSA4LjUgMCAwMS0xNyAweiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNS4wOTMgMTUuMDkzYTEgMSAwIDAxMS40MTQgMGw1LjIgNS4yYTEgMSAwIDAxLTEuNDE0IDEuNDE0bC01LjItNS4yYTEgMSAwIDAxMC0xLjQxNHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiIgc3R5bGU9ImhlaWdodDogMTZweDsgdmVydGljYWwtYWxpZ246IG1pZGRsZTsgd2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMC41IDRhNi41IDYuNSAwIDEwMCAxMyA2LjUgNi41IDAgMDAwLTEzek0yIDEwLjVhOC41IDguNSAwIDExMTcgMCA4LjUgOC41IDAgMDEtMTcgMHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNS4wOTMgMTUuMDkzYTEgMSAwIDAxMS40MTQgMGw1LjIgNS4yYTEgMSAwIDAxLTEuNDE0IDEuNDE0bC01LjItNS4yYTEgMSAwIDAxMC0xLjQxNHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==" class="r-h7gdob" />
 
 Search…
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiIgc3R5bGU9ImhlaWdodDoxNnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxNnB4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTEwLjUgNGE2LjUgNi41IDAgMTAwIDEzIDYuNSA2LjUgMCAwMDAtMTN6TTIgMTAuNWE4LjUgOC41IDAgMTExNyAwIDguNSA4LjUgMCAwMS0xNyAweiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNS4wOTMgMTUuMDkzYTEgMSAwIDAxMS40MTQgMGw1LjIgNS4yYTEgMSAwIDAxLTEuNDE0IDEuNDE0bC01LjItNS4yYTEgMSAwIDAxMC0xLjQxNHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiIgc3R5bGU9ImhlaWdodDogMTZweDsgdmVydGljYWwtYWxpZ246IG1pZGRsZTsgd2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMC41IDRhNi41IDYuNSAwIDEwMCAxMyA2LjUgNi41IDAgMDAwLTEzek0yIDEwLjVhOC41IDguNSAwIDExMTcgMCA4LjUgOC41IDAgMDEtMTcgMHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNS4wOTMgMTUuMDkzYTEgMSAwIDAxMS40MTQgMGw1LjIgNS4yYTEgMSAwIDAxLTEuNDE0IDEuNDE0bC01LjItNS4yYTEgMSAwIDAxMC0xLjQxNHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==" class="r-h7gdob" />
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIiBzdHlsZT0iaGVpZ2h0OjE4cHg7dmVydGljYWwtYWxpZ246bWlkZGxlO3dpZHRoOjE4cHgiPjxwYXRoIGQ9Ik0xOCA2TDYgMThNNiA2bDEyIDEyIj48L3BhdGg+PC9zdmc+" class="r-h7gdob" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIiBzdHlsZT0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgaGVpZ2h0OiAxOHB4OwogICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDE4cHg7CiAgICAgICAgICAgICAgICAgICAgICAgICI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xOCA2TDYgMThNNiA2bDEyIDEyIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob" />
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIiBzdHlsZT0iaGVpZ2h0OjE4cHg7dmVydGljYWwtYWxpZ246bWlkZGxlO3dpZHRoOjE4cHgiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTUtMTAtNXpNMiAxN2wxMCA1IDEwLTVNMiAxMmwxMCA1IDEwLTUiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIiBzdHlsZT0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgaGVpZ2h0OiAxOHB4OwogICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDE4cHg7CiAgICAgICAgICAgICAgICAgICAgICAgICI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTUtMTAtNXpNMiAxN2wxMCA1IDEwLTVNMiAxMmwxMCA1IDEwLTUiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==" class="r-h7gdob" />
 
 <span class="css-901oao css-16my406 css-vcwn7f">Web-Dev-Hub-Docs</span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMWpramIiIHN0eWxlPSJoZWlnaHQ6MThweDt2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MThweCI+PHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPjwvc3ZnPg==" class="r-h7gdob r-1jkjb" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMWpramIiIHN0eWxlPSIKICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDE4cHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgdmVydGljYWwtYWxpZ246IG1pZGRsZTsKICAgICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDogMThweDsKICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-h7gdob r-1jkjb" />
 
-<a href="/my-docs/" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../index.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Home
 
-<a href="/my-docs/navigation" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/navigation.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Navigation
 
 Tools
 
-<a href="/my-docs/tools/tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../tools/tools.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Tools
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="/my-docs/tools/showcase" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/tools/showcase.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Showcase
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="/my-docs/tools/downloads" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/tools/downloads.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Downloads
 
-<a href="/my-docs/tools/how-to-configure-ubuntu" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../tools/how-to-configure-ubuntu.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 How To Configure Ubuntu
 
-<a href="/my-docs/tools/links" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../tools/links.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 REPL.IT Compilations
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="/my-docs/tools/past-notes" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/tools/past-notes.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Past Notes
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="/my-docs/tools/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/tools/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Git
 
-<a href="/my-docs/tools/javascript" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../tools/javascript.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 JavaScript
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Programming Languages
 
-<a href="/my-docs/programming-languages/programming-languages" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../programming-languages/programming-languages.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Programming Languages
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="/my-docs/programming-languages/what-is-a-programming-language" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/programming-languages/what-is-a-programming-language.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 What is a Programming Language?
 
 Python
 
-<a href="/my-docs/python/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/python/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Python
 
-<a href="/my-docs/python/install-pip" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../python/install-pip.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Install PIP
 
 JavaScript
 
-<a href="/my-docs/javascript/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/javascript/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 JavaScript
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="/my-docs/javascript/js-leetcode" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/javascript/js-leetcode.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 JS-Leetcode
 
 Web Development Frameworks & Libraries
 
-<a href="/my-docs/web-development-frameworks/graphql" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/web-development-frameworks/graphql.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 GRAPHQL
 
-<a href="/my-docs/web-development-frameworks/react" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/web-development-frameworks/react.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 React
 
-<a href="/my-docs/web-development-frameworks/jquery" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/web-development-frameworks/jquery.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Jquery
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="/my-docs/web-development-frameworks/gatsby" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../web-development-frameworks/gatsby.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 GATSBY
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Productivity
 
-<a href="/my-docs/productivity/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../productivity/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Productivity
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Misc
 
-<a href="/my-docs/misc/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/misc/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Misc
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 GitGateway
 
-<a href="/my-docs/links/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/links/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Links
 
-<a href="/my-docs/links/untitled-1" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/links/untitled-1.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Bookmarks
 
 Websites
 
-<a href="/my-docs/websites/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/websites/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Websites
 
-<a href="/my-docs/websites/untitled-1" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/websites/untitled-1.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Not My Websites:
 
 Backend
 
-<a href="/my-docs/backend/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/backend/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Backend
 
 Networking
 
-<a href="/my-docs/networking/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/networking/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Networks
 
 Resources
 
-<a href="/my-docs/resources/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/resources/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Resources
 
-<a href="/my-docs/resources/untitled-1" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/resources/untitled-1.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Video Resources
 
 General Knowledge
 
-<a href="/my-docs/general-knowledge/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/general-knowledge/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 General Knowledge
 
-<a href="/my-docs/general-knowledge/untitled-1" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/general-knowledge/untitled-1.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Knowledge Bank
 
 Finance
 
-<a href="/my-docs/finance/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/finance/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Finance
 
-<a href="/my-docs/finance/finance-reference" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../finance/finance-reference.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Finance Reference
 
-<a href="/my-docs/finance/untitled-1" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/finance/untitled-1.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Financial Trends
 
 Science & Tech (Innovation)
 
-<a href="/my-docs/science-and-tech-innovation/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/science-and-tech-innovation/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Science & Tech
 
-<a href="/my-docs/science-and-tech-innovation/untitled-1" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/science-and-tech-innovation/untitled-1.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Articles
 
 Reading
 
-<a href="/my-docs/reading/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/reading/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Reading
 
 Social Media & Trends
 
-<a href="/my-docs/social-media-and-trends/untitled" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/social-media-and-trends/untitled.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Trends In Web Dev
 
-<a href="/my-docs/social-media-and-trends/fb-dev-open-source" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../social-media-and-trends/fb-dev-open-source.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 FB-Dev-Open Source
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="/my-docs/social-media-and-trends/ig-api" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/social-media-and-trends/ig-api.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 IG-API
 
 Docs
 
-<a href="/my-docs/docs/docs" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/docs/docs.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Docs
 
 Code Editors & Tools
 
-<a href="/my-docs/code-editors-and-tools/vscode" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../code-editors-and-tools/vscode.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Vscode
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Cool Stuff
 
-<a href="/my-docs/cool-stuff/cool-observable-notebooks" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/cool-stuff/cool-observable-notebooks.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Cool Observable Notebooks
 
 Server-Side
 
-<a href="/my-docs/server-side/graphql" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../server-side/graphql.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 GraphQL
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="/my-docs/server-side/rest-vs-graphql" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../server-side/rest-vs-graphql.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Rest VS GraphQl
 
-<a href="/my-docs/server-side/rest-api" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/server-side/rest-api.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 REST-API
 
-<a href="/my-docs/server-side/public-apis" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/server-side/public-apis.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Public APIs
 
 WEB\_DEV\_TOOLS
 
-<a href="/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../web_dev_tools/web-dev-tools.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Web Dev Tools
 
-<a href="/my-docs/web_dev_tools/cloudinary" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/web_dev_tools/cloudinary.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Cloudinary
 
-<a href="/my-docs/web_dev_tools/postman" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../web_dev_tools/postman.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Postman
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="/my-docs/web_dev_tools/netlify" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../web_dev_tools/netlify.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Netlify
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 DS\_ALGOS\_BRAINTEASERS
 
-<a href="/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/ds_algos_brainteasers/ds_algos_brainteasers.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 A Quick Guide to Big-O Notation, Memoization, Tabulation, and Sorting Algorithms by Example
 
 Free-Stuff
 
-<a href="/my-docs/free-stuff/free-stuff" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/free-stuff/free-stuff.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Free Stuff
 
 Job-Search
 
-<a href="/my-docs/job-search/job-search" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/job-search/job-search.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Job Search
 
-<a href="/my-docs/job-search/outreach" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../job-search/outreach.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Outreach
 
 General Comp Sci
 
-<a href="/my-docs/general-comp-sci/principles-behind-the-agile-manifesto" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/general-comp-sci/principles-behind-the-agile-manifesto.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Principles behind the Agile Manifesto
 
 Blockchain & Crypto
 
-<a href="/my-docs/blockchain-and-crypto/blockchain-basics" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../../web-dev-hub-docs/blockchain-and-crypto/blockchain-basics.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Blockchain Basics
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Data Structures & Interviewing
 
-<a href="/my-docs/data-structures-and-interviewing/data-structures" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../data-structures-and-interviewing/data-structures.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Data Structures
 
 REACT\_REVISITED
 
-<a href="/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../react_revisited/modern-react-with-redux.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Modern React with Redux
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 WEBDEV-Bootcamp-Notes
 
-<a href="/my-docs/webdev-bootcamp-notes/lambda" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../webdev-bootcamp-notes/lambda.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Lambda
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Group 1
 
-<a href="/my-docs/group-1/testing" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../../group-1/testing.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Testing:
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Medium-articles
 
-<a href="/my-docs/medium-articles/my-articles" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="../my-articles.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 My Articles
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBkPSJNNiA5bDYgNiA2LTYiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc0LTM4NzExXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTYgOWw2IDYgNi02Ij48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-<a href="/my-docs/medium-articles/my-articles/python-for-js-developers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="python-for-js-developers.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Python For JS Developers
 
-<a href="/my-docs/medium-articles/my-articles/javascript-programmer" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="javascript-programmer.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 JavaScript Programmer
 
-<a href="/my-docs/medium-articles/my-articles/awesome-web-development-youtube-video-archive" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="awesome-web-development-youtube-video-archive.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Awesome Web Development Youtube Video Archive
 
-<a href="/my-docs/medium-articles/my-articles/bash-commands-that-save-me-time-and-frustration" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="bash-commands-that-save-me-time-and-frustration.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Bash Commands That Save Me Time and Frustration
 
-<a href="/my-docs/medium-articles/my-articles/git-tricks" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="git-tricks.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Git-Tricks
 
-<a href="/my-docs/medium-articles/my-articles/scrap" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="scrap.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 scrap
 
-<a href="/my-docs/medium-articles/my-articles/medium-article" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="medium-article.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Medium Article
 
-<a href="/my-docs/medium-articles/my-articles/everything-you-need-to-know-about-relational-databases-sql-postgresql-and-sequelize-to-build..." class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="everything-you-need-to-know-about-relational-databases-sql-postgresql-and-sequelize-to-build....html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Everything You Need To Know About Relational Databases, SQL, PostgreSQL and Sequelize To Build…
 
-<a href="/my-docs/medium-articles/my-articles/machine-learner" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="machine-learner.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Machine Learner
 
-<a href="/my-docs/medium-articles/my-articles/heres-the-expanded-list" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="heres-the-expanded-list.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Here’s the expanded list:
 
-<a href="/my-docs/medium-articles/my-articles/the-complete-javascript-reference-guide" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="the-complete-javascript-reference-guide.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 The Complete JavaScript Reference Guide
 
-<a href="/my-docs/medium-articles/my-articles/this-is-really-cool" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="https://bryan-guner.gitbook.io/my-docs/medium-articles/my-articles/this-is-really-cool" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 This is really cool!
 
-<a href="/my-docs/medium-articles/my-articles/web-development-interview-part-3" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="web-development-interview-part-3.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Web Development Interview Part 3💻
 
-<a href="/my-docs/medium-articles/my-articles/mutability-and-reference-vs-privative-types-in-javascript" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="mutability-and-reference-vs-privative-types-in-javascript.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Mutability And Reference VS Privative Types in JavaScript
 
-<a href="/my-docs/medium-articles/my-articles/react" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="react.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 React
 
-<a href="/my-docs/medium-articles/my-articles/super-simple-intro-to-html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="super-simple-intro-to-html.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Super Simple Intro To HTML
 
-<a href="/my-docs/medium-articles/my-articles/introduction-to-react-for-complete-beginners" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-156hn8l r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="introduction-to-react-for-complete-beginners.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-156hn8l r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Introduction to React for Complete Beginners
 
-<a href="/my-docs/medium-articles/my-articles/web-developer-resource-list-part-2" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="web-developer-resource-list-part-2.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Web Developer Resource List Part 2
 
-<a href="/my-docs/medium-articles/my-articles/front-end-interview-questions-part-2" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="front-end-interview-questions-part-2.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Front End Interview Questions Part 2
 
-<a href="/my-docs/medium-articles/my-articles/a-list-of-tools-for-improvement" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="a-list-of-tools-for-improvement.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 A List Of Tools For Improvement
 
-<a href="/my-docs/medium-articles/my-articles/github-repositories-that-will-teach-you-how-to-code-for-free" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="github-repositories-that-will-teach-you-how-to-code-for-free.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Github Repositories That Will Teach You How To Code For Free!
 
-<a href="/my-docs/medium-articles/my-articles/libraries" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="libraries.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Libraries
 
-<a href="/my-docs/medium-articles/my-articles/machine-learner-1" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="machine-learner-1.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Machine Learner
 
-<a href="/my-docs/medium-articles/my-articles/heres-the-expanded-list-1" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="heres-the-expanded-list-1.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Here’s the expanded list:
 
-<a href="/my-docs/medium-articles/my-articles/the-complete-javascript-reference-guide-1" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="the-complete-javascript-reference-guide-1.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 The Complete JavaScript Reference Guide
 
-<a href="https://www.gitbook.com/?utm_source=content&amp;utm_medium=trademark&amp;utm_campaign=-MjLjuvITJh8ZwT8mVxp" class="css-4rbku5 css-1dbjc4n r-1uwl36a r-z2wwpe r-1rasi3h r-1loqt21 r-18u37iz r-1fdo3w0 r-1mnahxq r-ymttw5 r-5njf8e r-1otgn73 r-1i6wzkk r-lrvibr"><img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgNTEyIDUxMiIgZmlsbD0ibm9uZSIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItZXUza2Egci0xYW9ja2lkIiBzdHlsZT0idmVydGljYWwtYWxpZ246bWlkZGxlIj48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTIzMC40MzQgMzc5LjU1NGM4LjI1OSAwIDE0Ljk3OCA2LjcxOSAxNC45NzggMTQuOTc0IDAgOC4yNTYtNi43MTkgMTQuOTc0LTE0Ljk3OCAxNC45NzQtOC4yNTUgMC0xNC45NzQtNi43MTgtMTQuOTc0LTE0Ljk3NCAwLTguMjU1IDYuNzE5LTE0Ljk3NCAxNC45NzQtMTQuOTc0em0yMzUuMTg5LTkyLjc1OGMtOC4yNTkgMC0xNC45NzgtNi43MTktMTQuOTc4LTE0Ljk3NCAwLTguMjU5IDYuNzE5LTE0Ljk3OCAxNC45NzgtMTQuOTc4IDguMjU1IDAgMTQuOTc0IDYuNzE5IDE0Ljk3NCAxNC45NzggMCA4LjI1NS02LjcxOSAxNC45NzQtMTQuOTc0IDE0Ljk3NHptMC02MS4zNTFjLTI1LjU3MSAwLTQ2LjM3NyAyMC44MDUtNDYuMzc3IDQ2LjM3NyAwIDQuOTc5LjgyNyA5LjkzOCAyLjQ2IDE0Ljc1N0wyNjguNTAyIDM2OC4xM2MtOC43MDQtMTIuNTQzLTIyLjgxMi0xOS45NzktMzguMDY4LTE5Ljk3OS0xNy42NzYgMC0zMy43OTEgMTAuMTEzLTQxLjU4NiAyNS45MjRMNTEuMjExIDMwMS41MTRjLTE0LjU0LTcuNjQ2LTI1LjQyNS0zMS41OTUtMjQuMjctNTMuMzkyLjU5OC0xMS4zNzEgNC41My0yMC4xOTYgMTAuNTExLTIzLjYwNCAzLjgtMi4xNTcgOC4zNy0xLjk2OCAxMy4yMTQuNTdsLjkyLjQ4NWMzNi40NjQgMTkuMjEyIDE1NS44MjIgODIuMDc5IDE2MC44NDQgODQuNDEzIDcuNzU3IDMuNTg2IDEyLjA2OSA1LjA0MSAyNS4yNzktMS4yMjJsMjQ2LjcyMy0xMjguMzE3YzMuNjE1LTEuMzY1IDcuODMyLTQuODMgNy44MzItMTAuMDkxIDAtNy4zLTcuNTQ2LTEwLjE3Ny03LjU2OC0xMC4xNzctMTQuMDI2LTYuNzI5LTM1LjYwMS0xNi44MjctNTYuNjM5LTI2LjY3Ni00NC45NjUtMjEuMDU1LTk1LjkzMy00NC45MTktMTE4LjMxOC01Ni42MzktMTkuMzIzLTEwLjExNi0zNC44NzctMS41OS0zNy42NS4xMzVsLTUuMzkgMi42NjdDMTY1Ljk2NSAxMjkuNDgyIDMxLjE1NCAxOTYuMjQ4IDIzLjQ3OSAyMDAuOTE3IDkuNzM1IDIwOS4yOCAxLjIyNCAyMjUuOTQuMTIyIDI0Ni42MjVjLTEuNzIyIDMyLjc4OSAxNS4wMDcgNjYuOTY5IDM4LjkxNiA3OS41MTJsMTQ1LjUzNiA3NS4wNTdjMy4yNzkgMjIuNzA5IDIyLjgyNyAzOS43MTIgNDUuODYgMzkuNzEyIDI1LjMzNyAwIDQ1Ljk5Mi0yMC40MjUgNDYuMzc0LTQ1LjY3MmwxNjAuMjkyLTg2Ljg3YTQ2LjQxIDQ2LjQxIDAgMDAyOC41MjMgOS44MzVjMjUuNTcxIDAgNDYuMzc3LTIwLjgwNiA0Ni4zNzctNDYuMzc3IDAtMjUuNTcyLTIwLjgwNi00Ni4zNzctNDYuMzc3LTQ2LjM3N3oiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjwvc3ZnPg==" class="r-eu3ka r-1aockid" /></a>
+<a href="https://www.gitbook.com/?utm_source=content&amp;utm_medium=trademark&amp;utm_campaign=-MjLjuvITJh8ZwT8mVxp" class="css-4rbku5 css-1dbjc4n r-1uwl36a r-z2wwpe r-1rasi3h r-1loqt21 r-18u37iz r-1fdo3w0 r-1mnahxq r-ymttw5 r-5njf8e r-1otgn73 r-1i6wzkk r-lrvibr"><img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgNTEyIDUxMiIgZmlsbD0ibm9uZSIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItZXUza2Egci0xYW9ja2lkIiBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZSI+CiAgICAgICAgICAgICAgICAgICAgPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yMzAuNDM0IDM3OS41NTRjOC4yNTkgMCAxNC45NzggNi43MTkgMTQuOTc4IDE0Ljk3NCAwIDguMjU2LTYuNzE5IDE0Ljk3NC0xNC45NzggMTQuOTc0LTguMjU1IDAtMTQuOTc0LTYuNzE4LTE0Ljk3NC0xNC45NzQgMC04LjI1NSA2LjcxOS0xNC45NzQgMTQuOTc0LTE0Ljk3NHptMjM1LjE4OS05Mi43NThjLTguMjU5IDAtMTQuOTc4LTYuNzE5LTE0Ljk3OC0xNC45NzQgMC04LjI1OSA2LjcxOS0xNC45NzggMTQuOTc4LTE0Ljk3OCA4LjI1NSAwIDE0Ljk3NCA2LjcxOSAxNC45NzQgMTQuOTc4IDAgOC4yNTUtNi43MTkgMTQuOTc0LTE0Ljk3NCAxNC45NzR6bTAtNjEuMzUxYy0yNS41NzEgMC00Ni4zNzcgMjAuODA1LTQ2LjM3NyA0Ni4zNzcgMCA0Ljk3OS44MjcgOS45MzggMi40NiAxNC43NTdMMjY4LjUwMiAzNjguMTNjLTguNzA0LTEyLjU0My0yMi44MTItMTkuOTc5LTM4LjA2OC0xOS45NzktMTcuNjc2IDAtMzMuNzkxIDEwLjExMy00MS41ODYgMjUuOTI0TDUxLjIxMSAzMDEuNTE0Yy0xNC41NC03LjY0Ni0yNS40MjUtMzEuNTk1LTI0LjI3LTUzLjM5Mi41OTgtMTEuMzcxIDQuNTMtMjAuMTk2IDEwLjUxMS0yMy42MDQgMy44LTIuMTU3IDguMzctMS45NjggMTMuMjE0LjU3bC45Mi40ODVjMzYuNDY0IDE5LjIxMiAxNTUuODIyIDgyLjA3OSAxNjAuODQ0IDg0LjQxMyA3Ljc1NyAzLjU4NiAxMi4wNjkgNS4wNDEgMjUuMjc5LTEuMjIybDI0Ni43MjMtMTI4LjMxN2MzLjYxNS0xLjM2NSA3LjgzMi00LjgzIDcuODMyLTEwLjA5MSAwLTcuMy03LjU0Ni0xMC4xNzctNy41NjgtMTAuMTc3LTE0LjAyNi02LjcyOS0zNS42MDEtMTYuODI3LTU2LjYzOS0yNi42NzYtNDQuOTY1LTIxLjA1NS05NS45MzMtNDQuOTE5LTExOC4zMTgtNTYuNjM5LTE5LjMyMy0xMC4xMTYtMzQuODc3LTEuNTktMzcuNjUuMTM1bC01LjM5IDIuNjY3QzE2NS45NjUgMTI5LjQ4MiAzMS4xNTQgMTk2LjI0OCAyMy40NzkgMjAwLjkxNyA5LjczNSAyMDkuMjggMS4yMjQgMjI1Ljk0LjEyMiAyNDYuNjI1Yy0xLjcyMiAzMi43ODkgMTUuMDA3IDY2Ljk2OSAzOC45MTYgNzkuNTEybDE0NS41MzYgNzUuMDU3YzMuMjc5IDIyLjcwOSAyMi44MjcgMzkuNzEyIDQ1Ljg2IDM5LjcxMiAyNS4zMzcgMCA0NS45OTItMjAuNDI1IDQ2LjM3NC00NS42NzJsMTYwLjI5Mi04Ni44N2E0Ni40MSA0Ni40MSAwIDAwMjguNTIzIDkuODM1YzI1LjU3MSAwIDQ2LjM3Ny0yMC44MDYgNDYuMzc3LTQ2LjM3NyAwLTI1LjU3Mi0yMC44MDYtNDYuMzc3LTQ2LjM3Ny00Ni4zNzd6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-eu3ka r-1aockid" /></a>
 
 Powered By <span class="css-901oao css-16my406 r-b88u0q">GitBook</span>
 
@@ -596,7 +596,7 @@ Introduction to React for Complete Beginners
 
 <span key="7351e59b33fe49af881d4579e47b31a0"><span offset-key="7351e59b33fe49af881d4579e47b31a0:0">// Example usage: &lt;ShoppingList name="Mark" /></span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7d2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjciIHN0eWxlPSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxNnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7" />
 
 Copied!
 
@@ -622,7 +622,7 @@ Copied!
 
 <span key="91ccbe8fc12e414ca89ee9f150667a32"><span offset-key="91ccbe8fc12e414ca89ee9f150667a32:0">);</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -652,7 +652,7 @@ Copied!
 
 <span key="6852e3cc5b1c4477a9b99a45d04eb8c8"><span offset-key="6852e3cc5b1c4477a9b99a45d04eb8c8:0">&lt;/div></span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -674,7 +674,7 @@ Copied!
 
 <span key="7611bd3c3b1146588d22b40ea7ba561f"><span offset-key="7611bd3c3b1146588d22b40ea7ba561f:0">&lt;p>Paragraph Three&lt;/p></span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -714,7 +714,7 @@ Copied!
 
 <span key="39f52033c11a4c4ab064e07511fde2d8"><span offset-key="39f52033c11a4c4ab064e07511fde2d8:0">);</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -724,13 +724,13 @@ Copied!
 
 > <span key="f9ab8179822c4266b1e4f8de7015ad8f">*ReactDOM offers a simple method to render React elements to the DOM which looks like this:*</span>
 
-<span key="3b26fa947d774179a1ef0c933b550e4b">`ReactDOM.render(componentToRender, targetNode)`</span>
+<span key="3b26fa947d774179a1ef0c933b550e4b">`ReactDOM.render(componentToRender,                                         targetNode)`</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
 
     <span key="958abad8f91d4ae78d04200cad9855b4"><span offset-key="958abad8f91d4ae78d04200cad9855b4:0">the first argument is the React element or component that you want to render,</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
 
     <span key="cefcd193172b4dc2ab2079c74812a102"><span offset-key="cefcd193172b4dc2ab2079c74812a102:0">and the second argument is the DOM node that you want to render the component to.</span></span>
 
@@ -738,7 +738,7 @@ Copied!
 
 > <span key="ceed30fd3efb4e1d8cfb1f3c5adc84c1">*key difference in JSX is that you can no longer use the word class to define HTML classes.*</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
 
     <span key="267ac8a3c03f48e990767ed6da10f070"><span offset-key="267ac8a3c03f48e990767ed6da10f070:0">— -> This is because class is a reserved word in JavaScript. Instead, JSX uses className</span></span>
 
@@ -750,11 +750,11 @@ Copied!
 
 <span key="ef22dbf3b17f4e0aa4cc6e78c9936215"><span offset-key="ef22dbf3b17f4e0aa4cc6e78c9936215:0">Apply a class of myDiv to the div provided in the JSX code.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
 
     <span key="9c738c1bea36486e8b87f0ff82a2a663"><span offset-key="9c738c1bea36486e8b87f0ff82a2a663:0">The constant JSX should return a div element.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
 
     <span key="ca73953c5e4a4d368585fdff9b096123"><span offset-key="ca73953c5e4a4d368585fdff9b096123:0">The div should have a class of myDiv.</span></span>
 
@@ -778,7 +778,7 @@ Copied!
 
 <span key="2d22bf21f59746b1afb642393bb96a8f"><span offset-key="2d22bf21f59746b1afb642393bb96a8f:0">);</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -806,7 +806,7 @@ Copied!
 
 <span key="d232ca445a7641358c88fd5a231ee1a2"><span offset-key="d232ca445a7641358c88fd5a231ee1a2:0">);</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -856,7 +856,7 @@ Copied!
 
 <span key="375c0a1e0597431286f28fb32d263f81"><span offset-key="375c0a1e0597431286f28fb32d263f81:0">);</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -892,7 +892,7 @@ Copied!
 
 <span key="0f615d1a389f4ca99c9ca879ef3fd08e"><span offset-key="0f615d1a389f4ca99c9ca879ef3fd08e:0">);</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -912,7 +912,7 @@ Copied!
 
 <span key="7350b628201740c6bab60628164e7fcc"><span offset-key="7350b628201740c6bab60628164e7fcc:0">To create a component with a function, you simply write a JavaScript function that returns either JSX or null</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
 
     <span key="da69e2e731d64430a9d270dd0617c23f"><span offset-key="da69e2e731d64430a9d270dd0617c23f:0">React requires your function name to begin with a capital letter.</span></span>
 
@@ -942,7 +942,7 @@ Copied!
 
 <span key="6a580cddd208405cbf578cca66fe3464"><span offset-key="6a580cddd208405cbf578cca66fe3464:0">};</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -974,7 +974,7 @@ Copied!
 
 <span key="444f612c51474b62912630273a7d68c5"><span offset-key="444f612c51474b62912630273a7d68c5:0">}</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -1018,7 +1018,7 @@ Copied!
 
 <span key="b123981ceb1d4a9d8eb27ae1f764cc10"><span offset-key="b123981ceb1d4a9d8eb27ae1f764cc10:0">};</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -1074,7 +1074,7 @@ Copied!
 
 <span key="1aa3cfbfb0c947f087bff5730ddf19c5"><span offset-key="1aa3cfbfb0c947f087bff5730ddf19c5:0">}</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -1134,7 +1134,7 @@ Copied!
 
 <span key="27ce7fd43cd045aeb1904f2cd987a3bc"><span offset-key="27ce7fd43cd045aeb1904f2cd987a3bc:0">};</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -1202,7 +1202,7 @@ Copied!
 
 <span key="9fd3c88215d04eb4ab19d86a753b7016"><span offset-key="9fd3c88215d04eb4ab19d86a753b7016:0">};</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -1216,7 +1216,7 @@ Copied!
 
 > <span key="5b5e11aa23e249a79c6b32ddde152006">*To compose these components together, you could create an App parent component which renders each of these three components as children. To render a component as a child in a React component, you include the component name written as a custom HTML tag in the JSX.*</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
 
     <span key="e5b4c1b98a1743c8b1a66157eb26bed6"><span offset-key="e5b4c1b98a1743c8b1a66157eb26bed6:0">For example, in the render method you could write:</span></span>
 
@@ -1248,7 +1248,7 @@ Copied!
 
 <span key="9389316e854c4917b1bb9d414c8bb2f0"><span offset-key="9389316e854c4917b1bb9d414c8bb2f0:0">)</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -1260,11 +1260,11 @@ Copied!
 
 > <span key="9c5cd67fe49d430a8968095136cb5d86">*In the code editor, there is a simple functional component called ChildComponent and a class component called ParentComponent. Compose the two together by rendering the ChildComponent within the ParentComponent. Make sure to close the ChildComponent tag with a forward slash.*</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
 
     <span key="e49d5f3c6e284062ad468491dad4e94e"><span offset-key="e49d5f3c6e284062ad468491dad4e94e:0">Note:</span>**ChildComponent is defined with an ES6 arrow function because this is a very common practice when using React**<span offset-key="e49d5f3c6e284062ad468491dad4e94e:2">.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+-   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
 
     <span key="9d0a756324c4417295b7ad73c9260df0"><span offset-key="9d0a756324c4417295b7ad73c9260df0:0">However, know that this is just a function.</span></span>
 
@@ -1360,7 +1360,7 @@ Copied!
 
 <span key="bf87c09b8f4a4850b4d63af4aed2afc3"><span offset-key="bf87c09b8f4a4850b4d63af4aed2afc3:0">};</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -1462,7 +1462,7 @@ Copied!
 
 <span key="7247a46244de4d329c92e8a52c2acae1"><span offset-key="7247a46244de4d329c92e8a52c2acae1:0">};</span></span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3NC0zODcxMV8iIGNsYXNzPSJyLWg3Z2RvYiByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
@@ -1482,112 +1482,112 @@ Copied!
 
 <span key="8e478a0a9a054e11aa8c1fb58eafc7b4"><span offset-key="8e478a0a9a054e11aa8c1fb58eafc7b4:0">Exported from </span></span><a href="https://medium.com" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="68fc326d89904a9c99bea6f593a032ee" data-rnw-int-class="nearest_257-38707_259-38708-237__"><span data-key="032d5f66d7a4474eb0ce217986f5c687"><span data-offset-key="032d5f66d7a4474eb0ce217986f5c687:0">Medium</span></span></span></a><span key="edfdb717929d45aea5da9aad6a666072"><span offset-key="edfdb717929d45aea5da9aad6a666072:0"> on August 31, 2021.</span></span>
 
-<a href="/my-docs/medium-articles/my-articles/super-simple-intro-to-html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-1ro0kt6 r-18u37iz r-16y2uox r-1wbh5a2 r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="super-simple-intro-to-html.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-1ro0kt6 r-18u37iz r-16y2uox r-1wbh5a2 r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X18yNTctMzg3MDdfXyIgY2xhc3M9InItMXJhc2kzaCByLTE0NzJtd2cgci0xdnppOHhpIHItbHJzbGxwIj48cGF0aCBkPSJNMTkgMTJINU0xMiAxOWwtNy03IDctNyI+PC9wYXRoPjwvc3ZnPg==" class="r-1rasi3h r-1472mwg r-1vzi8xi r-lrsllp" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X18yNTctMzg3MDdfXyIgY2xhc3M9InItMXJhc2kzaCByLTE0NzJtd2cgci0xdnppOHhpIHItbHJzbGxwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xOSAxMkg1TTEyIDE5bC03LTcgNy03Ij48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1rasi3h r-1472mwg r-1vzi8xi r-lrsllp" />
 
 Previous
 
 Super Simple Intro To HTML
 
-<a href="/my-docs/medium-articles/my-articles/web-developer-resource-list-part-2" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-1ro0kt6 r-18u37iz r-16y2uox r-1wbh5a2 r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
+<a href="web-developer-resource-list-part-2.html" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-1ro0kt6 r-18u37iz r-16y2uox r-1wbh5a2 r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
 Next
 
 Web Developer Resource List Part 2
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X18yNTctMzg3MDdfXyIgY2xhc3M9InItMXJhc2kzaCByLTE0NzJtd2cgci0xdnppOHhpIHItbHJzbGxwIj48cGF0aCBkPSJNNSAxMmgxNE0xMiA1bDcgNy03IDciPjwvcGF0aD48L3N2Zz4=" class="r-1rasi3h r-1472mwg r-1vzi8xi r-lrsllp" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X18yNTctMzg3MDdfXyIgY2xhc3M9InItMXJhc2kzaCByLTE0NzJtd2cgci0xdnppOHhpIHItbHJzbGxwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik01IDEyaDE0TTEyIDVsNyA3LTcgNyI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==" class="r-1rasi3h r-1472mwg r-1vzi8xi r-lrsllp" />
 
 Last modified <span class="css-901oao css-16my406" aria-label="2021-11-03 10:08 UTC">1d ago</span>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzI1Ny0zODcwN18iIGNsYXNzPSJyLTFyYXNpM2ggci0xMHB0dW43IHItMXZ6aTh4aSIgc3R5bGU9IndpZHRoOjE2cHgiPjxwYXRoIGQ9Ik0xNC4xMSA2LjZsLS4xNi0uMDljLS4wNDIuMzQzLS4xMy42OC0uMjYgMUEzIDMgMCAwMTE1IDEwYTMgMyAwIDAxLTMgM0g4YTMgMyAwIDAxMC02aC44MkEzIDMgMCAwMDkgNkg4YTQgNCAwIDAwMCA4aDRhNCA0IDAgMDAyLjExLTcuNHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjxwYXRoIGQ9Ik0xLjg5IDkuNGwuMTYuMDljLjA0Mi0uMzQzLjEzLS42OC4yNi0xQTMgMyAwIDAxMSA2YTMgMyAwIDAxMy0zaDRhMyAzIDAgMTEwIDZoLS44MkEzIDMgMCAwMDcgMTBoMWE0IDQgMCAwMDAtOEg0YTQgNCAwIDAwLTIuMTEgNy40eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+" class="r-1rasi3h r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzI1Ny0zODcwN18iIGNsYXNzPSJyLTFyYXNpM2ggci0xMHB0dW43IHItMXZ6aTh4aSIgc3R5bGU9IndpZHRoOiAxNnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMTQuMTEgNi42bC0uMTYtLjA5Yy0uMDQyLjM0My0uMTMuNjgtLjI2IDFBMyAzIDAgMDExNSAxMGEzIDMgMCAwMS0zIDNIOGEzIDMgMCAwMTAtNmguODJBMyAzIDAgMDA5IDZIOGE0IDQgMCAwMDAgOGg0YTQgNCAwIDAwMi4xMS03LjR6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMS44OSA5LjRsLjE2LjA5Yy4wNDItLjM0My4xMy0uNjguMjYtMUEzIDMgMCAwMTEgNmEzIDMgMCAwMTMtM2g0YTMgMyAwIDExMCA2aC0uODJBMyAzIDAgMDA3IDEwaDFhNCA0IDAgMDAwLThINGE0IDQgMCAwMC0yLjExIDcuNHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1rasi3h r-10ptun7 r-1vzi8xi" />
 
 Copy link
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMXJhc2kzaCByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6MTZweCI+PHBhdGggZD0iTTIxIDEwSDdNMjEgNkgzTTIxIDE0SDNNMjEgMThINyI+PC9wYXRoPjwvc3ZnPg==" class="r-1rasi3h r-10ptun7 r-1vzi8xi" />
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMXJhc2kzaCByLTEwcHR1bjcgci0xdnppOHhpIiBzdHlsZT0id2lkdGg6IDE2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTIxIDEwSDdNMjEgNkgzTTIxIDE0SDNNMjEgMThINyI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==" class="r-1rasi3h r-10ptun7 r-1vzi8xi" />
 
 Contents
 
-<a href="/my-docs/medium-articles/my-articles/introduction-to-react-for-complete-beginners#introduction-to-react-for-complete-beginners" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="introduction-to-react-for-complete-beginners.html#introduction-to-react-for-complete-beginners" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 Introduction to React for Complete Beginners
 
-<a href="/my-docs/medium-articles/my-articles/introduction-to-react-for-complete-beginners#react" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="introduction-to-react-for-complete-beginners.html#react" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 React
 
-<a href="/my-docs/medium-articles/my-articles/introduction-to-react-for-complete-beginners#from-the-react-docs" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="introduction-to-react-for-complete-beginners.html#from-the-react-docs" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 From the React Docs:
 
-<a href="/my-docs/medium-articles/my-articles/introduction-to-react-for-complete-beginners#what-is-react" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="introduction-to-react-for-complete-beginners.html#what-is-react" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 What is React?
 
-<a href="/my-docs/medium-articles/my-articles/introduction-to-react-for-complete-beginners#valid-jsx" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="introduction-to-react-for-complete-beginners.html#valid-jsx" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 Valid JSX:
 
-<a href="/my-docs/medium-articles/my-articles/introduction-to-react-for-complete-beginners#invalid-jsx" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="introduction-to-react-for-complete-beginners.html#invalid-jsx" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 Invalid JSX:
 
-<a href="/my-docs/medium-articles/my-articles/introduction-to-react-for-complete-beginners#apply-a-class-of-mydiv-to-the-div-provided-in-the-jsx-code." class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="introduction-to-react-for-complete-beginners.html#apply-a-class-of-mydiv-to-the-div-provided-in-the-jsx-code." class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 Apply a class of myDiv to the div provided in the JSX code.
 
-<a href="/my-docs/medium-articles/my-articles/introduction-to-react-for-complete-beginners#ans" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="introduction-to-react-for-complete-beginners.html#ans" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 Ans:
 
-<a href="/my-docs/medium-articles/my-articles/introduction-to-react-for-complete-beginners#react-learn-about-self-closing-jsx-tags" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="introduction-to-react-for-complete-beginners.html#react-learn-about-self-closing-jsx-tags" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 React: Learn About Self-Closing JSX Tags
 
-<a href="/my-docs/medium-articles/my-articles/introduction-to-react-for-complete-beginners#fix-the-errors-in-the-code-editor-so-that-it-is-valid-jsx-and-successfully-transpiles.-make-sure-you" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="introduction-to-react-for-complete-beginners.html#fix-the-errors-in-the-code-editor-so-that-it-is-valid-jsx-and-successfully-transpiles.-make-sure-you" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 Fix the errors in the code editor so that it is valid JSX and successfully transpiles. Make sure you don’t change any of the content — you only need to close tags where they are needed.
 
-<a href="/my-docs/medium-articles/my-articles/introduction-to-react-for-complete-beginners#ans-1" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="introduction-to-react-for-complete-beginners.html#ans-1" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 Ans:
 
-<a href="/my-docs/medium-articles/my-articles/introduction-to-react-for-complete-beginners#react-create-a-stateless-functional-component" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="introduction-to-react-for-complete-beginners.html#react-create-a-stateless-functional-component" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 React: Create a Stateless Functional Component
 
-<a href="/my-docs/medium-articles/my-articles/introduction-to-react-for-complete-beginners#the-code-editor-has-a-function-called-mycomponent.-complete-this-function-so-it-returns-a-single-div" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="introduction-to-react-for-complete-beginners.html#the-code-editor-has-a-function-called-mycomponent.-complete-this-function-so-it-returns-a-single-div" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 The code editor has a function called MyComponent. Complete this function so it returns a single div element which contains some string of text.
 
-<a href="/my-docs/medium-articles/my-articles/introduction-to-react-for-complete-beginners#ans-2" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="introduction-to-react-for-complete-beginners.html#ans-2" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 ANS:
 
-<a href="/my-docs/medium-articles/my-articles/introduction-to-react-for-complete-beginners#react-create-a-react-component" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="introduction-to-react-for-complete-beginners.html#react-create-a-react-component" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 React: Create a React Component
 
-<a href="/my-docs/medium-articles/my-articles/introduction-to-react-for-complete-beginners#mycomponent-is-defined-in-the-code-editor-using-class-syntax.-finish-writing-the-render-method-so-it" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="introduction-to-react-for-complete-beginners.html#mycomponent-is-defined-in-the-code-editor-using-class-syntax.-finish-writing-the-render-method-so-it" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 MyComponent is defined in the code editor using class syntax. Finish writing the render method so it returns a div element that contains an h1 with the text Hello React!.
 
-<a href="/my-docs/medium-articles/my-articles/introduction-to-react-for-complete-beginners#ans-3" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="introduction-to-react-for-complete-beginners.html#ans-3" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 ANS:
 
-<a href="/my-docs/medium-articles/my-articles/introduction-to-react-for-complete-beginners#react-create-a-component-with-composition" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="introduction-to-react-for-complete-beginners.html#react-create-a-component-with-composition" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 React: Create a Component with Composition
 
-<a href="/my-docs/medium-articles/my-articles/introduction-to-react-for-complete-beginners#challenge" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="introduction-to-react-for-complete-beginners.html#challenge" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 Challenge:
 
-<a href="/my-docs/medium-articles/my-articles/introduction-to-react-for-complete-beginners#ans-4" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="introduction-to-react-for-complete-beginners.html#ans-4" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 Ans:
 
-<a href="/my-docs/medium-articles/my-articles/introduction-to-react-for-complete-beginners#more-examples" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
+<a href="introduction-to-react-for-complete-beginners.html#more-examples" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 More Examples:

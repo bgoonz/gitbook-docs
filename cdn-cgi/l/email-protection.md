@@ -8,7 +8,7 @@ The website from which you got to this page is protected by Cloudflare. Email ad
 
 If you have a website and are interested in protecting it in a similar way, you can [sign up for Cloudflare](https://www.cloudflare.com/sign-up?utm_source=email_protection).
 
--   <a href="https://support.cloudflare.com/hc/en-us/articles/200170016-What-is-Email-Address-Obfuscation-" class="modal-link-faq">How does Cloudflare protect email addresses on website from spammers?</a>
--   <a href="https://support.cloudflare.com/hc/en-us/categories/200275218-Getting-Started" class="modal-link-faq">Can I sign up for Cloudflare?</a>
+- <a href="https://support.cloudflare.com/hc/en-us/articles/200170016-What-is-Email-Address-Obfuscation-" class="modal-link-faq">How does Cloudflare protect email addresses on website from spammers?</a>
+- <a href="https://support.cloudflare.com/hc/en-us/categories/200275218-Getting-Started" class="modal-link-faq">Can I sign up for Cloudflare?</a>
 
 <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: **6a8f36456aa2191b**</span> <span class="cf-footer-separator sm:hidden">•</span> <span class="cf-footer-item sm:block sm:mb-1">Your IP: 173.70.97.51</span> <span class="cf-footer-separator sm:hidden">•</span> <span class="cf-footer-item sm:block sm:mb-1">Performance & security by <a href="https://www.cloudflare.com/5xx-error-landing" id="brand_link">Cloudflare</a></span>
